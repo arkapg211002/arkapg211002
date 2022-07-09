@@ -408,7 +408,7 @@
 
 <!--compact achievement-->
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.achievements.compact.svg" align="center" style="width: 100%" />
 </div>  
 <br/> 
 
@@ -442,65 +442,65 @@
 
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.activity.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.contributors.contributions.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.followup.indepth.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.habits.facts.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.habits.charts.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.isocalendar.fullyear.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.languages.indepth.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.lines.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.stargazers.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.stars.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg/blob/main/metrics.plugin.repositories.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
 <!--followers-->
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.people.followers.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
@@ -529,7 +529,7 @@
 
 <!--newsfeed-->
 <div align="center">
-<img src="" align="center" style="width: 100%"/>
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.rss.svg" align="center" style="width: 100%"/>
 </div> 
 
 </br> 
