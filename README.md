@@ -515,17 +515,17 @@
 
 
 <!--SNAKE EATING CONTRIBUTION GRAPH-->
-<!--<div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(3).gif" align="center" style="width: 100%" />
-</div> --> 
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(3).gif" align="center" style="width: 100%" />
+</div> 
 
 <!--<div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/output/github-contribution-grid-snake.gif" align="center" style="width: 100%" />
 </div> -->
 
-<!--<div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/output/github-contribution-grid-snake-dark.svg" align="center" style="width: 100%" />
-</div> -->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg/blob/output/github-contribution-grid-snake-dark.svg" align="center" style="width: 100%" />
+</div> 
 
 <!--newsfeed-->
 <div align="center">
@@ -629,7 +629,7 @@ SPOTIFY PLAYLIST
 
 <!--ending banner-->
 <div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/16555454091467120879%20(1).gif" align="center" style="width: 100%"/>
+<img src="https://github.com/arkapg211002/arkapg/blob/master/16555454091467120879%20(1).gif" align="center" style="width: 100%"/>
 </div>
 
 </br>
