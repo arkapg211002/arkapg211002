@@ -1,0 +1,171 @@
+name: featured repo
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */8 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    - main
+    - output
+    
+  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+     - name: Full-year calendar
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.isocalendar.fullyear.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_isocalendar: yes
+        plugin_isocalendar_duration: full-year
+     - name: Indepth analysis
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.languages.indepth.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_languages: yes
+        plugin_languages_ignored: >-
+          html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+          gnuplot
+        plugin_languages_indepth: yes
+        plugin_languages_details: lines, bytes-size
+        plugin_languages_limit: 4
+        plugin_languages_analysis_timeout: 15
+     - name: Recently starred
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.stars.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_stars: yes
+        plugin_stars_limit: 5
+     - name: Licenses with open-source ratio graphs
+       uses: lowlighter/metrics@latest
+       with:
+         filename: metrics.plugin.licenses.ratio.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         template: repository
+         repo: arkapg211002
+         plugin_licenses: yes
+         plugin_licenses_setup: npm ci
+         plugin_licenses_legal: no
+         plugin_licenses_ratio: yes
+     - name: Midly interesting facts
+       uses: lowlighter/metrics@latest
+       with:
+         filename: metrics.plugin.habits.facts.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_habits: yes
+         plugin_habits_facts: yes
+         plugin_habits_charts: no
+         config_timezone: Europe/Paris
+     - name: Recent activity charts
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.habits.charts.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_habits: yes
+        plugin_habits_facts: no
+        plugin_habits_charts: yes
+        config_timezone: Europe/Paris
+     - name: Contributors with contributions count
+       uses: lowlighter/metrics@latest
+       with:
+          filename: metrics.plugin.contributors.contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: arkapg211002
+          plugin_contributors: yes
+          plugin_contributors_contributions: yes
+     - name: Indepth analysis
+       uses: lowlighter/metrics@latest
+       with:
+         filename: metrics.plugin.followup.indepth.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_followup: yes
+         plugin_followup_indepth: yes
+     - name: Followers
+       uses: lowlighter/metrics@latest
+       with:
+         filename: metrics.plugin.people.followers.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_people: yes
+         plugin_people_types: followers
+     - name: Using classic charts
+       uses: lowlighter/metrics@latest
+       with:
+         filename: metrics.plugin.stargazers.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_stargazers: yes
+     - name: Recent activity
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.activity.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_activity: yes
+        plugin_activity_limit: 5
+        plugin_activity_days: 0
+        plugin_activity_filter: issue, pr, release, fork, review, ref/create
+     - name: Compact display
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.achievements.compact.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_achievements: yes
+        plugin_achievements_only: >-
+          polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+          scripter, packager, explorer, infographile, manager
+        plugin_achievements_display: compact
+        plugin_achievements_threshold: X
+     - name: Lines of code changed
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.lines.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: repositories
+        plugin_lines: yes
+     - name: News from hackernews
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.rss.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_rss: yes
+        plugin_rss_source: https://news.ycombinator.com/rss
+        plugin_rss_limit: 4
+
+
+
+
+
+
+
+
+
+
+
+
+
