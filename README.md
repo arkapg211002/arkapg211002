@@ -9,7 +9,7 @@
 <!--iNTRODUCTION-->
 <table align="center"><tr>
 <td align="center"><div align="center">
-<img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" align="center" style="width: 50%" />
+<img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" align="center" style="width: 100%" />
 </div> </td>
 <td align="center">
 <div align="center"><!--<b>I'm ARKAPRATIM, a Web Developer 👨‍💻 Cloud ☁️ and Blockchain ⛓️ enthusiast</b>-->
