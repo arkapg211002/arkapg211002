@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Goat Rental – Hire Goats</div>
+                                <div class="title">Asdf Performance</div>
                                 <div class="date">12 Aug 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Windows10Debloater: Script to remove Windows 10 bloatware</div>
+                                <div class="title">PyPI package 'secretslib' drops fileless Linux malware to mine Monero</div>
                                 <div class="date">12 Aug 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rob Pike's simple C regex matcher in Go</div>
+                                <div class="title">Excel is pretty dang cool</div>
                                 <div class="date">12 Aug 2022</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hacking the Hedonic Treadmill</div>
-                                <div class="date">10 Aug 2022</div>
+                                <div class="title">Kubernetes Statefulsets Are Broken</div>
+                                <div class="date">12 Aug 2022</div>
                             </div>
                         </div>
                     </section>
