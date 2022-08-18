@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">6 Raspberry Pis, 6 SSDs on a Mini ITX Motherboard</div>
+                                <div class="title">FDA moves to make over-the-counter hearing aids available to millions</div>
+                                <div class="date">18 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Learn Postgres at the Playground – Postgres compiled to WASM running in browser</div>
                                 <div class="date">17 Aug 2022</div>
                             </div>
                         </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">No, You Can’t Buy One Square Foot of Land in Scotland and Become a Scottish Lord</div>
+                                <div class="title">The Soviets Hunted Whales to the Brink of Extinction but Scientists Tracked Toll</div>
                                 <div class="date">17 Aug 2022</div>
                             </div>
                         </div>
@@ -38,16 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Accounting for Developers</div>
-                                <div class="date">17 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Learn Postgres at the Playground (Postgres compiled to WASM running in browser)</div>
+                                <div class="title">Vietnam to make Apple Watch and MacBook</div>
                                 <div class="date">17 Aug 2022</div>
                             </div>
                         </div>
