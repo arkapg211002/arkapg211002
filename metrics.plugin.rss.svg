@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zen4's AVX512 Teardown</div>
+                                <div class="title">Outdated vs. Complete: In defense of apps that don’t need updates</div>
                                 <div class="date">26 Sept 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Does Someone Know My Name?</div>
+                                <div class="title">Ignite – Use Firecracker VMs with Docker images</div>
                                 <div class="date">26 Sept 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Learning Is Remembering</div>
+                                <div class="title">Experimenting a New Syntax to Write SVG</div>
                                 <div class="date">26 Sept 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nvidia in the Valley</div>
+                                <div class="title">CTO Should Be Technical</div>
                                 <div class="date">26 Sept 2022</div>
                             </div>
                         </div>
