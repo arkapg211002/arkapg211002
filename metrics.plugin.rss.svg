@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Introduction to the Theory of Programming Languages (1991)</div>
+                                <div class="title">Select * from cloud</div>
                                 <div class="date">30 Sept 2022</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DreamFusion: Text-to-3D using 2D Diffusion</div>
-                                <div class="date">29 Sept 2022</div>
+                                <div class="title">OpenStreepMap 2012 vs. 2022</div>
+                                <div class="date">30 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Looped Square Or ⌘</div>
-                                <div class="date">29 Sept 2022</div>
+                                <div class="title">FCC Approves 5 Year Satellite Deorbiting Rule</div>
+                                <div class="date">30 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why “go nuts, show nuts” doesn’t work in 2022</div>
-                                <div class="date">29 Sept 2022</div>
+                                <div class="title">Querying Postgres Tables Directly from DuckDB</div>
+                                <div class="date">30 Sept 2022</div>
                             </div>
                         </div>
                     </section>
