@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tell HN: A disabled 40-year-old person founded a startup and makes a living</div>
+                                <div class="title">Postgres WASM</div>
                                 <div class="date">3 Oct 2022</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Maigret: Collect a dossier on a person by username from thousands of sites</div>
-                                <div class="date">2 Oct 2022</div>
+                                <div class="title">Apple’s ad business set to boom on the back of its own anti-tracking crackdown</div>
+                                <div class="date">3 Oct 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A study of lights at night suggests dictators lie about economic growth</div>
-                                <div class="date">1 Oct 2022</div>
+                                <div class="title">Ask HN: Who is hiring? (October 2022)</div>
+                                <div class="date">3 Oct 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">There Is Simply Too Much Internet</div>
-                                <div class="date">1 Oct 2022</div>
+                                <div class="title">Show HN: I finished v5 of a JVM framework I've spent spent half a decade making</div>
+                                <div class="date">3 Oct 2022</div>
                             </div>
                         </div>
                     </section>
