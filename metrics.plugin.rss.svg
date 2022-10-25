@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What “work” looks like</div>
+                                <div class="title">My dad's resume and skills from 1980</div>
                                 <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Graphviz v7</div>
+                                <div class="title">ClockworkPi – uConsole, “fantasy console” for indie game developers</div>
                                 <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How the clipboard works</div>
+                                <div class="title">From zero to 10M lines of Kotlin</div>
                                 <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WhatsApp goes down for users globally</div>
+                                <div class="title">I recorded user behaviour on my competitor’s websites (2018)</div>
                                 <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
