@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Let’s build a container runtime using only the chroot system call</div>
+                                <div class="title">Why is Rosetta 2 fast?</div>
                                 <div class="date">9 Nov 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Writing down what I do – in Obsidian</div>
+                                <div class="title">Idiot Proof Git</div>
                                 <div class="date">9 Nov 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My DIY ergonomic travel workstation with aluminum and magnets</div>
+                                <div class="title">The Sad Saga of the 500 MHz Power Mac G4</div>
                                 <div class="date">9 Nov 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stop using low DNS TTLs (2019)</div>
+                                <div class="title">Building a semantic search engine in Rust</div>
                                 <div class="date">9 Nov 2022</div>
                             </div>
                         </div>
