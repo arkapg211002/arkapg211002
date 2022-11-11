@@ -156,6 +156,36 @@ jobs:
         plugin_rss: yes
         plugin_rss_source: https://news.ycombinator.com/rss
         plugin_rss_limit: 4
+     - name: With worldmap
+       uses: lowlighter/metrics@latest
+       with:
+         filename: metrics.plugin.stargazers.worldmap.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_stargazers: yes
+         plugin_stargazers_charts: no
+         plugin_stargazers_worldmap: yes
+         plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+         plugin_stargazers_worldmap_sample: 200
+
+     - name: Repositories and diff history
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.lines.history.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_lines: yes
+        plugin_lines_sections: repositories, history
+        plugin_lines_repositories_limit: 2
+        plugin_lines_history_limit: 1
+     - name: LeetCode
+       uses: lowlighter/metrics@latest
+       with:
+         filename: metrics.plugin.leetcode.svg
+         token: NOT_NEEDED
+         base: ""
+         plugin_leetcode: yes
+         plugin_leetcode_sections: solved, skills, recent
 
 
 
