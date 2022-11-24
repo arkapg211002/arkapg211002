@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stable Diffusion 2.0</div>
+                                <div class="title">An efficient ActivityPub Server, for small installs with multiple domains</div>
                                 <div class="date">24 Nov 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The tragic birth of FM radio (2006)</div>
+                                <div class="title">Freecomputerbooks.com</div>
                                 <div class="date">24 Nov 2022</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Westinghouse sees a tech disrupter in its eVinci microreactor</div>
-                                <div class="date">23 Nov 2022</div>
+                                <div class="title">Git-bug: Distributed, offline-first bug tracker embedded in Git</div>
+                                <div class="date">24 Nov 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ccache – a fast C/C++ compiler cache</div>
-                                <div class="date">23 Nov 2022</div>
+                                <div class="title">OpenBSD for Linux Users</div>
+                                <div class="date">24 Nov 2022</div>
                             </div>
                         </div>
                     </section>
