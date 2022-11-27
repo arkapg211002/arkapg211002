@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ᚣ the Rune Programming Language</div>
+                                <div class="title">LXD containers on macOS at near-native speeds</div>
                                 <div class="date">27 Nov 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Startup Restructuring 101</div>
+                                <div class="title">Show HN: MyNixOS – Create and share Nix and NixOS configurations</div>
                                 <div class="date">27 Nov 2022</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A bug fix in the 8086 microprocessor, revealed in the die's silicon</div>
-                                <div class="date">26 Nov 2022</div>
+                                <div class="title">We ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler (2020)</div>
+                                <div class="date">27 Nov 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">When splines were physical objects (2016)</div>
+                                <div class="title">Show HN: Yet Another Node.js Framework</div>
                                 <div class="date">27 Nov 2022</div>
                             </div>
                         </div>
