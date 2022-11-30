@@ -52,7 +52,7 @@
 </td>
   <td valign="center" width="33%">
   <div align="center">
-<img src="https://iotchain.io/imgs/leftboximg.gif" align="center" style="width: 100%" />
+<img src="https://miro.medium.com/max/3840/0*EBXqB5wJTWFeaT04.gif" align="center" style="width: 100%" />
 </div>  
 </td>
   </tr>
@@ -154,13 +154,14 @@
 </div>
   </br></br>
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
-<img style="margin: 10px" src="https://nativescript.org/images/0tw5g4s3bv4xoxr6espf.png" alt="NPM" height="55" />  
-<img style="margin: 10px" src="https://ajeetchaulagain.com/static/a3d362eac404a6b6e3046f8fc681392c/92a94/express-js.png" alt="Express.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="95" />  
-<img style="margin: 10px" src="https://lightsprocket.net/wp-content/uploads/2015/08/command_prompt.png" alt="Terminal" height="95" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height="55" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="55" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" height="55" />  </br>
+  <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="55" />  
+<!--<img style="margin: 10px" src="https://nativescript.org/images/0tw5g4s3bv4xoxr6espf.png" alt="NPM" height="55" />  -->
+<!--<img style="margin: 10px" src="https://ajeetchaulagain.com/static/a3d362eac404a6b6e3046f8fc681392c/92a94/express-js.png" alt="Express.js" height="75" /> --> 
+<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="95" />  -->
+  
 </div>
 </td>
   
@@ -180,15 +181,15 @@
   </br></br>
 <div align="center">  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="55" />  
 <!--<img style="margin: 10px" src="https://th.bing.com/th/id/R.817d6c92eb47961d66e90daac3a49e6e?rik=sB26iv%2fKqpaDJw&riu=http%3a%2f%2ffc02.deviantart.net%2ffs70%2fi%2f2011%2f355%2f9%2f2%2fjava_flurry_icon_by_flakshack-d4jt21r.png&ehk=2DnXeDoVK6cy3e0JGHzgChOjiue4ud3Yz9YvAHQR7YM%3d&risl=&pid=ImgRaw&r=0" alt="Java" height="60" />  -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" />  </br>
+<img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="70" />  </br>
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  -->
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />  </br>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="70" />  
+<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />  </br>-->
+<img style="margin: 10px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="70" />  
+
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  -->
  
 
