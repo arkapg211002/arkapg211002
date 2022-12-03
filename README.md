@@ -518,11 +518,15 @@
 
 
 
-<div align="center">
+<!--<div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/main/metrics.plugin.skyline.svg" align="center" style="width: 100%" />
 </div>
-</br>
+</br>-->
 
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg/blob/main/metrics.plugin.skyline.city.svg" align="center" style="width: 100%" />
+</div>
+</br>
 
 
 
