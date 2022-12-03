@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Puter</div>
-                                <div class="date">2 Dec 2022</div>
+                                <div class="title">EmacsConf 2022</div>
+                                <div class="date">3 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I wrote a free eBook about many lesser-known/secret database tricks</div>
-                                <div class="date">2 Dec 2022</div>
+                                <div class="title">Mistaken Beliefs About How Much to Talk in Conversations</div>
+                                <div class="date">3 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Datasette’s new JSON write API: The first alpha of Datasette 1.0</div>
-                                <div class="date">2 Dec 2022</div>
+                                <div class="title">Using Rust at a startup: A cautionary tale</div>
+                                <div class="date">3 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Twitter Files</div>
-                                <div class="date">2 Dec 2022</div>
+                                <div class="title">Bettercap – Swiss Army Knife for 802.11, BLE, IPv4 and IPv6 Networks</div>
+                                <div class="date">3 Dec 2022</div>
                             </div>
                         </div>
                     </section>
