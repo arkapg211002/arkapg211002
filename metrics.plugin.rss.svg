@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">UC Berkeley launches SkyPilot to help navigate soaring cloud costs</div>
+                                <div class="title">Shutting down our unencrypted public DNS service</div>
                                 <div class="date">13 Dec 2022</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OCaml Canvas</div>
-                                <div class="date">12 Dec 2022</div>
+                                <div class="title">LosslessCut: The Swiss Army Knife of Lossless Video/Audio Editing</div>
+                                <div class="date">13 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fusion energy breakthrough by Livermore Lab</div>
-                                <div class="date">11 Dec 2022</div>
+                                <div class="title">Ask HN: Why are YC companies breaking hiring laws?</div>
+                                <div class="date">13 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Btrfs in Linux 6.2 brings performance improvements, better RAID 5/6 reliability</div>
-                                <div class="date">12 Dec 2022</div>
+                                <div class="title">Show HN: We scaled Git to support 1 TB repos</div>
+                                <div class="date">13 Dec 2022</div>
                             </div>
                         </div>
                     </section>
