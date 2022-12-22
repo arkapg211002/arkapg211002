@@ -530,6 +530,12 @@
 </div>
 </br>
 
+<!-- pagespeed -->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.pagespeed.screenshot.svg" align="center" style="width: 100%" />
+</div>
+</br>
+
 
 
 <!--SNAKE EATING CONTRIBUTION GRAPH-->
