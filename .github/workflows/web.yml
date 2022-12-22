@@ -23,13 +23,14 @@ jobs:
     
     
     steps:
-     - name: Succinct report with PWA
+     - name: Screenshot
        uses: lowlighter/metrics@latest
        with:
-        filename: metrics.plugin.pagespeed.svg
-        token: NOT_NEEDED
-        base: ""
-        plugin_pagespeed: yes
-        plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-        plugin_pagespeed_url: https://arkapg211002.github.io/
-        plugin_pagespeed_pwa: yes
+         filename: metrics.plugin.pagespeed.screenshot.svg
+         token: NOT_NEEDED
+         base: ""
+         plugin_pagespeed: yes
+         plugin_pagespeed_screenshot: yes
+         plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+         plugin_pagespeed_url: https://arkapg211002.github.io/
+
