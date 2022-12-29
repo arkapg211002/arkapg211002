@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hard truths I learned when I got laid off from my SWE job</div>
+                                <div class="title">Barnes and Noble's surprising turnaround</div>
                                 <div class="date">28 Dec 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">26 Programming Languages in 25 Days</div>
+                                <div class="title">Reverse-engineering the source prompts of Notion AI</div>
                                 <div class="date">28 Dec 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SQLite's Automatic Indexes</div>
+                                <div class="title">Build your front end in React, then let ChatGPT be your Redux reducer</div>
                                 <div class="date">28 Dec 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Active Ball Joint Mechanism With 3-DoF Based on Spherical Gear Meshings (2021)</div>
+                                <div class="title">Acorn, our open source precision farming rover</div>
                                 <div class="date">28 Dec 2022</div>
                             </div>
                         </div>
