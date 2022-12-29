@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Barnes and Noble's surprising turnaround</div>
+                                <div class="title">The Linux Command Line</div>
                                 <div class="date">28 Dec 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI: Markets for Lemons, and the Great Logging Off</div>
+                                <div class="title">Silicon Valley offices less empty than other regions</div>
                                 <div class="date">29 Dec 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The insanity of being a Scrabble enthusiast</div>
+                                <div class="title">WireGuard for the ESP32</div>
                                 <div class="date">29 Dec 2022</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Build your front end in React, then let ChatGPT be your Redux reducer</div>
-                                <div class="date">28 Dec 2022</div>
+                                <div class="title">Show HN: GUI for Making Animated Webcomics</div>
+                                <div class="date">29 Dec 2022</div>
                             </div>
                         </div>
                     </section>
