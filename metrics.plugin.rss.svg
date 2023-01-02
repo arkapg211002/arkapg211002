@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rant: Year of Linux on the Desktop</div>
+                                <div class="title">Remaking old computer graphics with AI image generation</div>
                                 <div class="date">1 Jan 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pop2Piano: Pop Audio-Based Piano Cover Generation</div>
+                                <div class="title">Casio-F-91W die-shot</div>
                                 <div class="date">1 Jan 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The internet wants to be fragmented</div>
+                                <div class="title">Conversation Skills Essentials</div>
                                 <div class="date">1 Jan 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Raspberry Pi security alarm – the basics</div>
-                                <div class="date">31 Dec 2022</div>
+                                <div class="title">Adding design-by-contract conditions to C++ via a GCC plugin</div>
+                                <div class="date">1 Jan 2023</div>
                             </div>
                         </div>
                     </section>
