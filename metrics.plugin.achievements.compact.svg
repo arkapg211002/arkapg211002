@@ -50,7 +50,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 63.4k out of 105m users</span>
+                                    <span class="gh">ranked 63.5k out of 105m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">159</div>
                                     </div>
@@ -138,7 +138,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.06030150753769 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="43.618090452261306 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -160,10 +160,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">55</div>
+                                        <div class="value">57</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 55 times</div>
+                                <div class="text">Repositories have been deployed 57 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
