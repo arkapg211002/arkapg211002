@@ -568,7 +568,11 @@
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.rss.svg" align="center" style="width: 100%"/>
 </div> 
-
+</br>
+<!-- https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.posts.full.svg -->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.posts.full.svg" align="center" style="width: 100%"/>
+</div> 
 </br> 
 </br>
 
