@@ -1,0 +1,36 @@
+name: Recentpost
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */8 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    - main
+    - output
+    
+  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    
+    steps:
+     - name: Recent posts with descriptions and cover images
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.posts.full.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_posts: yes
+        plugin_posts_source: dev.to
+        plugin_posts_limit: 2
+        plugin_posts_descriptions: yes
+        plugin_posts_covers: yes
