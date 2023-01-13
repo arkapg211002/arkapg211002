@@ -411,10 +411,12 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkapg211002&theme=onedark" alt="arkapg211002" /></p>
 </td></table>
   
+<!--
 <table align="center"><tr><td valign="center" width="55%">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arkapg211002&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" style="width: 100%" /></div>  </td>
 <td valign="center" width="50%">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&hide_border=true&layout=compact&theme=onedark" align="center" style="width: 100% height:100%" /></div>  </td></tr></table></br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&hide_border=true&layout=compact&theme=onedark" align="center" style="width: 100% height:100%" /></div>  </td></tr></table></br> 
+-->
 
 <!--compact achievement-->
 <div align="center">
@@ -429,14 +431,15 @@
 
 
 
-<!--
 
-<div align="center">
-<a href="https://github.com/arkapg211002/github-readme-activity-graph"><img alt="MY ACTIVITY GRAPH" src="https://activity-graph.herokuapp.com/graph?username=arkapg211002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</div>  
-<br/> 
 
--->
+
+[![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arkapg211002&theme=react-dark)](https://github.com/arkapg211002)
+
+</br>
+
+
+
 
 <!--<div align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MY ACTIVITY GRAPH" src="https://activity-graph.herokuapp.com/graph?username=arkapg211002" /></a>
