@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#6 Create CODE_OF_CONDUCT.md</span>
+                                        <span class="issue">#2 Update README.md</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Circle</span></div>
-                                    <div>1 file changed <span class="code">++128 --0</span></div>
+                                    <div> in <span class="repo">arkapg211002/Data-Analysis-prac</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#6 Create CODE_OF_CONDUCT.md</span>
+                                        <span class="issue">#2 Update README.md</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Circle</span></div>
-                                    <div>1 file changed <span class="code">++128 --0</span></div>
+                                    <div> in <span class="repo">arkapg211002/Data-Analysis-prac</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,9 +58,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">add-code-of-conduct-1</span>
+                                        <span class="code">arkapg211002-patch-1</span>
                                         in
-                                        <span class="repo">arkapg211002/Circle</span>
+                                        <span class="repo">arkapg211002/Data-Analysis-prac</span>
                                     </div>
                                 </div>
                             </section>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#5 Create SECURITY.md</span>
+                                        <span class="issue">#1 Add files via upload</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Circle</span></div>
-                                    <div>1 file changed <span class="code">++21 --0</span></div>
+                                    <div> in <span class="repo">arkapg211002/Data-Analysis-prac</span></div>
+                                    <div>8 files changed <span class="code">++4377 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#5 Create SECURITY.md</span>
+                                        <span class="issue">#1 Add files via upload</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Circle</span></div>
-                                    <div>1 file changed <span class="code">++21 --0</span></div>
+                                    <div> in <span class="repo">arkapg211002/Data-Analysis-prac</span></div>
+                                    <div>8 files changed <span class="code">++4377 --0</span></div>
                                 </div>
                             </section>
                         </div>
