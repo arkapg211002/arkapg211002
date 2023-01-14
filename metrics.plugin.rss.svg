@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sickcodes/Docker-OS X: Run macOS VM in a Docker</div>
-                                <div class="date">13 Jan 2023</div>
+                                <div class="title">WInd3x, the iPod Bootrom exploit 10 years too late</div>
+                                <div class="date">14 Jan 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EPA Proposes to Strengthen Air Quality Standards</div>
+                                <div class="title">Lawsuit challenging Stable Diffusion filed against DeviantArt &amp; others</div>
+                                <div class="date">14 Jan 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Docker-OSX: Run macOS VM in a Docker</div>
                                 <div class="date">13 Jan 2023</div>
                             </div>
                         </div>
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Analog Chess</div>
-                                <div class="date">13 Jan 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">What the hell is Forth? (2019)</div>
                                 <div class="date">13 Jan 2023</div>
                             </div>
                         </div>
