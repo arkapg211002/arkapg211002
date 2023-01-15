@@ -23,11 +23,11 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#2 Update README.md</span>
+                                        <span class="issue">#7 Update README.md</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Data-Analysis-prac</span></div>
+                                    <div> in <span class="repo">arkapg211002/Circle</span></div>
                                     <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
@@ -40,11 +40,11 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#2 Update README.md</span>
+                                        <span class="issue">#7 Update README.md</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Data-Analysis-prac</span></div>
+                                    <div> in <span class="repo">arkapg211002/Circle</span></div>
                                     <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
@@ -60,7 +60,7 @@
                       branch
                                         <span class="code">arkapg211002-patch-1</span>
                                         in
-                                        <span class="repo">arkapg211002/Data-Analysis-prac</span>
+                                        <span class="repo">arkapg211002/Circle</span>
                                     </div>
                                 </div>
                             </section>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#1 Add files via upload</span>
+                                        <span class="issue">#2 Create circle.yml</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Data-Analysis-prac</span></div>
-                                    <div>8 files changed <span class="code">++4377 --0</span></div>
+                                    <div> in <span class="repo">arkapg211002/arkapg211002</span></div>
+                                    <div>1 file changed <span class="code">++35 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#1 Add files via upload</span>
+                                        <span class="issue">#2 Create circle.yml</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Data-Analysis-prac</span></div>
-                                    <div>8 files changed <span class="code">++4377 --0</span></div>
+                                    <div> in <span class="repo">arkapg211002/arkapg211002</span></div>
+                                    <div>1 file changed <span class="code">++35 --0</span></div>
                                 </div>
                             </section>
                         </div>
