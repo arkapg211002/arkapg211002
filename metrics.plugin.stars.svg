@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="450" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="500" class="">
     <defs>
         <style/>
     </defs>
@@ -64,7 +64,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arkapg211002/Circle</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The circle is a chat application made using ReactJS, JSX, React Hooks, React router, CSS, NodeJS, Firebase, and Chat engine. It opens with a sign-in page that uses authentication. A signed-in user can create or delete a chat group, add other users, send text, images, etc.</div>
@@ -117,7 +117,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adrianhajdin/project_medical_pager_chat</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Medical Pager Chat App powered by GetStream</div>
@@ -167,7 +167,7 @@
                                         <span>starred 23 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Personal Portfolio which shows about me, my skills, projects, services, contact information, a terminal portfolio</div>
+                                <div class="field description">Personal Portfolio which shows about me,coding profiles,my skills,projects,services,contact information,a terminal portfolio. HTML,CSS,Bootstrap for the components.JavaScript for DOM,typing text with Typed.JS. AOS for animations. LocalStorage api for theme setting, contact-api for page views</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
