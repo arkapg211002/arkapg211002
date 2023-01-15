@@ -447,7 +447,7 @@
 <td valign="center" width="50%">
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&theme=onedark -->
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&hide_border=true&layout=compact&theme=onedark -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&theme=onedark" align="center" style="width: 100% height:100%" /></div>  </td></tr></table></br> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&hide_border=true&layout=compact&theme=onedark" align="center" style="width: 100% height:100%" /></div>  </td></tr></table></br> 
 
 
 <!--compact achievement-->
