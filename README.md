@@ -358,7 +358,7 @@
   <table align="center"><tr>
 <td><div align="center">
 
-<a href="https://www.linkedin.com/in/arkapratim-ghosh%E2%9C%8C%EF%B8%8F%F0%9F%98%80-86637a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkapratim ghosh✌️😀" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/arkapratim-ghosh21102002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkapratim ghosh✌️😀" height="40" width="40" /></a>
 
 <a href="https://www.facebook.com/profile.php?id=100073622645041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkapratim ghosh" height="40" width="40" /></a>
   
@@ -441,12 +441,12 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkapg211002&theme=onedark" alt="arkapg211002" /></p>
 </td></table>
   
-<!--
+
 <table align="center"><tr><td valign="center" width="55%">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arkapg211002&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" style="width: 100%" /></div>  </td>
 <td valign="center" width="50%">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&hide_border=true&layout=compact&theme=onedark" align="center" style="width: 100% height:100%" /></div>  </td></tr></table></br> 
--->
+
 
 <!--compact achievement-->
 <div align="center">
