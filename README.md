@@ -214,6 +214,36 @@
 <br/>
 <br/>
 
+<!-- data analysis -->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/Data-analysis-gif.gif" align="center" style="width: 100%" />
+</div>
+</br>
+
+<table><tr>
+<td align="center" width="33%">
+
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/data-analysis-action.gif" align="center" style="width: 100%" />
+</div>
+</td>
+
+<td align="center" width="30%">
+<!-- -->
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="55" /></br>
+<img style="margin: 10px" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="55" /></br>
+<img style="margin: 10px" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" height="55" />  </br>
+<img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" height="55" /></br>
+<img style="margin: 10px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau" height="55" /></br>
+<img style="margin: 10px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power bi" height="55" />  </br>
+</div>
+</td>
+</tr>
+</table>
+</br>
+</br>
+
 <!--Cloud-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/CLOUD.gif" align="center" style="width: 100%" />
