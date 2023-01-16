@@ -441,8 +441,13 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkapg211002&theme=onedark" alt="arkapg211002" /></p>
 </td></table>
   
+<table align="center"><tr><td valign="center" width="50%">
+<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arkapg211002&show_icons=true&locale=en&langs_count=20&count_private=true&theme=onedark" align="center" style="width: 100%" /></div>  </td>
+<td valign="center" width="50%">
+<p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=arkapg211002&show_icons=true&theme=onedark&locale=en&layout=compact" alt="arkapg211002" /></p>
+</td></table>
 
-
+<!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arkapg211002&show_icons=true&locale=en&langs_count=20&count_private=true&theme=onedark" align="center"> -->
 
 <!--compact achievement-->
 <div align="center">
