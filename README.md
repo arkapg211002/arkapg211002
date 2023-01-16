@@ -442,14 +442,6 @@
 </td></table>
   
 
-<table align="center"><tr><td valign="center" width="55%">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arkapg211002&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" style="width: 100%" /></div> 
- 
-</td>
-<td valign="center" width="50%">
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&theme=onedark -->
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&hide_border=true&layout=compact&theme=onedark -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&hide_border=true&layout=compact&theme=onedark" align="center" style="width: 100% height:100%" /></div>  </td></tr></table></br> 
 
 
 <!--compact achievement-->
