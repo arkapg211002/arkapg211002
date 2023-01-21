@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GPT-3: Techniques to improve reliability</div>
+                                <div class="title">Techniques to improve reliability</div>
                                 <div class="date">21 Jan 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ain't it funny how the knight moves?</div>
-                                <div class="date">20 Jan 2023</div>
+                                <div class="title">Self-Soldering Circuits [video]</div>
+                                <div class="date">21 Jan 2023</div>
                             </div>
                         </div>
                     </section>
