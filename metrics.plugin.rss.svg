@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My Dream Computer</div>
+                                <div class="title">Setting the clock ahead to see what breaks</div>
                                 <div class="date">23 Jan 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rotation with three shears</div>
+                                <div class="title">Doomgeneric: Make Porting Doom Easier</div>
                                 <div class="date">23 Jan 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WiFi Routers Used to Produce 3D Images of Humans</div>
-                                <div class="date">22 Jan 2023</div>
+                                <div class="title">Wonders of Street View</div>
+                                <div class="date">23 Jan 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Neural Networks and the Chomsky Hierarchy</div>
+                                <div class="title">About Security Keys for Apple ID</div>
                                 <div class="date">23 Jan 2023</div>
                             </div>
                         </div>
