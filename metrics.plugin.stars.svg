@@ -167,7 +167,7 @@
                                         <span>starred Dec 22 2022</span>
                                     </div>
                                 </div>
-                                <div class="field description">Personal Portfolio which shows about me,coding profiles,my skills,projects,services,contact information,a terminal portfolio. HTML,CSS,Bootstrap for the components.JavaScript for DOM,typing text with Typed.JS. AOS for animations. LocalStorage api for theme setting, contact-api for page views</div>
+                                <div class="field description">Personal Portfolio which shows about me,coding profiles,my skills,projects,services,contact information,a terminal portfolio. HTML,CSS,Bootstrap for the components.JavaScript for DOM,typing text with Typed.JS. AOS, vanilla-tilt for animations. LocalStorage api for theme setting, contact-api for page views</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
