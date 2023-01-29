@@ -23,11 +23,11 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#6 Create SECURITY.md</span>
+                                        <span class="issue">#6 Create LICENSE</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/php_prac</span></div>
+                                    <div> in <span class="repo">arkapg211002/CSE_MAR_MOOC_EXTRAS_2021-2025_</span></div>
                                     <div>1 file changed <span class="code">++21 --0</span></div>
                                 </div>
                             </section>
@@ -40,11 +40,11 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#6 Create SECURITY.md</span>
+                                        <span class="issue">#6 Create LICENSE</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/php_prac</span></div>
+                                    <div> in <span class="repo">arkapg211002/CSE_MAR_MOOC_EXTRAS_2021-2025_</span></div>
                                     <div>1 file changed <span class="code">++21 --0</span></div>
                                 </div>
                             </section>
@@ -58,9 +58,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">arkapg211002-patch-1</span>
+                                        <span class="code">add-license-1</span>
                                         in
-                                        <span class="repo">arkapg211002/php_prac</span>
+                                        <span class="repo">arkapg211002/CSE_MAR_MOOC_EXTRAS_2021-2025_</span>
                                     </div>
                                 </div>
                             </section>
@@ -73,7 +73,7 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#5 Create LICENSE</span>
+                                        <span class="issue">#6 Create SECURITY.md</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -90,7 +90,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#5 Create LICENSE</span>
+                                        <span class="issue">#6 Create SECURITY.md</span>
                                     </div>
                                 </div>
                                 <div class="details">
