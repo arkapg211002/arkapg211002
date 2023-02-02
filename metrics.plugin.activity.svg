@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#6 Update issue templates</span>
+                                        <span class="issue">#3 Create SECURITY.md</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Login</span></div>
-                                    <div>3 files changed <span class="code">++68 --0</span></div>
+                                    <div> in <span class="repo">arkapg211002/QRcode</span></div>
+                                    <div>1 file changed <span class="code">++21 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#6 Update issue templates</span>
+                                        <span class="issue">#3 Create SECURITY.md</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Login</span></div>
-                                    <div>3 files changed <span class="code">++68 --0</span></div>
+                                    <div> in <span class="repo">arkapg211002/QRcode</span></div>
+                                    <div>1 file changed <span class="code">++21 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -60,7 +60,7 @@
                       branch
                                         <span class="code">arkapg211002-patch-1</span>
                                         in
-                                        <span class="repo">arkapg211002/Login</span>
+                                        <span class="repo">arkapg211002/QRcode</span>
                                     </div>
                                 </div>
                             </section>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#5 Create SECURITY.md</span>
+                                        <span class="issue">#2 Create LICENSE</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Login</span></div>
-                                    <div>1 file changed <span class="code">++21 --0</span></div>
+                                    <div> in <span class="repo">arkapg211002/QRcode</span></div>
+                                    <div>1 file changed <span class="code">++277 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#5 Create SECURITY.md</span>
+                                        <span class="issue">#2 Create LICENSE</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">arkapg211002/Login</span></div>
-                                    <div>1 file changed <span class="code">++21 --0</span></div>
+                                    <div> in <span class="repo">arkapg211002/QRcode</span></div>
+                                    <div>1 file changed <span class="code">++277 --0</span></div>
                                 </div>
                             </section>
                         </div>
