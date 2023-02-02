@@ -457,10 +457,10 @@
 
 <div align="center">
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=onedark)](https://github.com/arkapg211002/github-profile-trophy)-->
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=onedark" alt="arkapg211002" align="center" style="width: 90%" /></a> </div>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=chalk" alt="arkapg211002" align="center" style="width: 90%" /></a> </div>
 <br/>  
 
-
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
 
