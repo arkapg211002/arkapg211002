@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arkapg211002/AskAI</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A low-scale-clone of ChatGPT made using OpenAI API. Client side deployed on vercel and server side on render.com . Removing .env file, setting environment variable on remote server ensures no public leakage of API key and 401 error.</div>
