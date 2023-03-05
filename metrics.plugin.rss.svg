@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Procal: A simple Qt-based programming calculator</div>
+                                <div class="title">Minimal, allocation-free OpenMetrics implementation for no-std&amp;#x2F;embedded Rust</div>
                                 <div class="date">4 Mar 2023</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Phoenix Dev Blog – Streams</div>
-                                <div class="date">4 Mar 2023</div>
+                                <div class="title">The Incompatibility of Open Core and Profit</div>
+                                <div class="date">5 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Finding Java Thread Leaks with JDK Flight Recorder and a Bit of SQL</div>
-                                <div class="date">4 Mar 2023</div>
+                                <div class="title">Lemon-Derived Nanoparticles Block the Progression of Kidney Stones</div>
+                                <div class="date">3 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How the C64 Keyboard Works</div>
-                                <div class="date">4 Mar 2023</div>
+                                <div class="title">Fix Intel CPU Throttling on Linux</div>
+                                <div class="date">5 Mar 2023</div>
                             </div>
                         </div>
                     </section>
