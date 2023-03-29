@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)</div>
+                                <div class="title">The age of average</div>
                                 <div class="date">29 Mar 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Now ChatGPT is being (mis)used to do PeerReview</div>
+                                <div class="title">Launch HN: Vocode (YC W23) – Library for realtime voice conversation with LLMs</div>
                                 <div class="date">29 Mar 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New insights into why aspirin works so well</div>
+                                <div class="title">Effing-mad, an effect library for Rust</div>
                                 <div class="date">29 Mar 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Writing a Profiler in 240 lines of pure Java</div>
-                                <div class="date">27 Mar 2023</div>
+                                <div class="title">Treat your to-read pile like a river, not a bucket</div>
+                                <div class="date">28 Mar 2023</div>
                             </div>
                         </div>
                     </section>
