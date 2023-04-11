@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The end of a myth: Distributed transactions can scale</div>
+                                <div class="title">Supabase Edge Runtime: Self-Hosted Deno Functions</div>
                                 <div class="date">11 Apr 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sponsor the open source projects you depend on</div>
+                                <div class="title">The Coming of Local LLMs</div>
                                 <div class="date">11 Apr 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Generative Agents: Interactive Simulacra of Human Behavior</div>
-                                <div class="date">10 Apr 2023</div>
+                                <div class="title">Distributed² Machine Learning Notebooks with Elixir and Livebook</div>
+                                <div class="date">11 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FreeBSD 13.2-RELEASE Now Available</div>
+                                <div class="title">I worked at Google for -10 days</div>
                                 <div class="date">11 Apr 2023</div>
                             </div>
                         </div>
