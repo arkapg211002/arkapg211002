@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What are transformer models and how do they work?</div>
+                                <div class="title">WebGPU Fundamentals</div>
                                 <div class="date">15 Apr 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Surviving Burnout (2015)</div>
+                                <div class="title">Stop Building Closed Ecosystems</div>
                                 <div class="date">15 Apr 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Aztec monks with 1&amp;#x2F;55 HP no longer die when picking up or dropping a relic</div>
-                                <div class="date">12 Apr 2023</div>
+                                <div class="title">Hypervisor Development in Rust</div>
+                                <div class="date">15 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Super Mario Bros. theme part of the 2023 Library of Congress registry</div>
-                                <div class="date">12 Apr 2023</div>
+                                <div class="title">Show HN: IPython-GPT, a Jupyter&amp;#x2F;IPython Interface to Chat GPT</div>
+                                <div class="date">15 Apr 2023</div>
                             </div>
                         </div>
                     </section>
