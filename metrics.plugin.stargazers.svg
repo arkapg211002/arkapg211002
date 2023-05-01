@@ -84,7 +84,7 @@
                                 30
                             </div>
                             <div class="entry">
-                                <span class="value">106</span>
+                                <span class="value">104</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 1
                                 <div class="bottom">May</div>
@@ -161,7 +161,7 @@
                                 30
                             </div>
                             <div class="entry">
-                                <span class="value">+87</span>
+                                <span class="value">+85</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 1
                                 <div class="bottom">May</div>
