@@ -592,7 +592,7 @@
 </div> 
 
 <div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/output/github-contribution-grid-snake-dark.svg" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg/blob/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
 </div> 
 
 <!--newsfeed-->
