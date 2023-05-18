@@ -20,8 +20,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ScholarTurbo: Use ChatGPT to chat with PDFs (supports GPT-4)</div>
-                                <div class="date">15 May 2023</div>
+                                <div class="title">What happened with ASUS routers this morning?</div>
+                                <div class="date">18 May 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">94% of users prefer not to be tracked, so why do consent prompts exist?</div>
+                                <div class="date">18 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Petrucci Music Library</div>
-                                <div class="date">17 May 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Using Bun.js as a Bundler</div>
                                 <div class="date">17 May 2023</div>
                             </div>
                         </div>
