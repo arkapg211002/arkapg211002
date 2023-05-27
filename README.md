@@ -463,14 +463,12 @@
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
+<!-- Activity graph -->
 
-
-[![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arkapg211002&theme=react-dark)](https://github.com/arkapg211002)
-
-</br>
-
-
-
+<div align="center">
+<img src="https://github-readme-activity-graph-brown.vercel.app/graph?username=arkapg211002&theme=green" align="center" style="width: 100%" />
+</div>  
+<br/> 
 
 <!--<div align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MY ACTIVITY GRAPH" src="https://activity-graph.herokuapp.com/graph?username=arkapg211002" /></a>
