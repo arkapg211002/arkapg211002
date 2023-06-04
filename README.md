@@ -22,8 +22,7 @@
   <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(11).gif" align="center" style="width: 90%" /> -->
   <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/competitive.gif" align="center" style="width: 90%" />
   <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/programmer.gif" align="center" style="width: 90%" />
-  <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/data.gif" align="center" style="width: 90%" />
-  <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(11).gif" align="center" style="width: 90%" />
+  
   </div>
 <div align="left">
   
@@ -158,7 +157,7 @@
 </div>
   </br></br>
 <div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height="55" />  
+<!--<img style="margin: 10px" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height="55" /> -->
 <img style="margin: 10px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="55" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" height="55" />  </br>
   <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="55" />
@@ -214,7 +213,9 @@
 <br/>
 <br/>
 
+
 <!-- data analysis -->
+<!--
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/Data-analysis-gif.gif" align="center" style="width: 100%" />
 </div>
@@ -229,7 +230,7 @@
 </td>
 
 <td align="center" width="30%">
-<!-- -->
+
 <div align="center">  
 <img style="margin: 10px" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="55" /></br>
 <img style="margin: 10px" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="55" /></br>
@@ -243,6 +244,7 @@
 </table>
 </br>
 </br>
+-->
 
 <!--Cloud-->
 <div align="center">
@@ -258,7 +260,7 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" height="50" />
 <img style="margin: 10px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oci" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="salesforce" height="50" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github actions" height="50" />  
+ 
 <!--<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
 </div>
