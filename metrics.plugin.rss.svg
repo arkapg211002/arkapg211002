@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I booted Linux 292,612 times</div>
+                                <div class="title">Native JSON Output from GPT-4</div>
                                 <div class="date">14 Jun 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why PostgreSQL High Availability Matters and How to Achieve It</div>
+                                <div class="title">Gorilla: Large Language Model Connected with APIs</div>
                                 <div class="date">14 Jun 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dumb and Gets Things Done</div>
+                                <div class="title">Scientists Discover Phosphorus on Enceladus</div>
                                 <div class="date">14 Jun 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Deliberate Practice Guide</div>
-                                <div class="date">14 Jun 2023</div>
+                                <div class="title">SETI Scientists to Devise Plan for Lunar Listening Station</div>
+                                <div class="date">15 Jun 2023</div>
                             </div>
                         </div>
                     </section>
