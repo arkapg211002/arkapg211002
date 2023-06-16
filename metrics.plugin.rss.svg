@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lemmy Instances are already blocking each other</div>
+                                <div class="title">Do Foundation Model Providers Comply with the EU AI Act?</div>
                                 <div class="date">16 Jun 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vision Pro</div>
-                                <div class="date">15 Jun 2023</div>
+                                <div class="title">Learnings from kCTF VRP's 42 Linux kernel exploits submissions</div>
+                                <div class="date">16 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sequence diagrams, the only good thing UML brought to software development</div>
-                                <div class="date">15 Jun 2023</div>
+                                <div class="title">OpenSSL 1.1.1 End of Life Approaching</div>
+                                <div class="date">16 Jun 2023</div>
                             </div>
                         </div>
                     </section>
