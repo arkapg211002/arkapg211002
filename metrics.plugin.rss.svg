@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenBSD: Shutdown/reboot now require membership of group _shutdown</div>
+                                <div class="title">Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate</div>
                                 <div class="date">20 Jun 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LCD TVs won’t see any further development</div>
+                                <div class="title">Loneliness is stronger when not alone</div>
                                 <div class="date">20 Jun 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why I started (and stopped) making games</div>
-                                <div class="date">19 Jun 2023</div>
+                                <div class="title">Why Tcl?</div>
+                                <div class="date">20 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Matasano crypto challenges (2014)</div>
+                                <div class="title">Mullvad Leta: A search engine used in the Mullvad Browser</div>
                                 <div class="date">20 Jun 2023</div>
                             </div>
                         </div>
