@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">64-Bit RISC-V with Apache NuttX Real-Time Operating System</div>
+                                <div class="title">Finally getting two's complement</div>
                                 <div class="date">23 Jun 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Full ignition for ESA’s reusable rocket engine</div>
-                                <div class="date">23 Jun 2023</div>
+                                <div class="title">An open source web-based flashcard studying system</div>
+                                <div class="date">24 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Millions of GitHub repos likely vulnerable to RepoJacking, researchers say</div>
-                                <div class="date">23 Jun 2023</div>
+                                <div class="title">CSS Only dark mode</div>
+                                <div class="date">24 Jun 2023</div>
                             </div>
                         </div>
                     </section>
