@@ -452,10 +452,12 @@
 <!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arkapg211002&show_icons=true&locale=en&langs_count=20&count_private=true&theme=onedark" align="center"> -->
 
 <!--compact achievement-->
+<!--
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.achievements.compact.svg" align="center" style="width: 100%" />
 </div>  
 <br/> 
+-->
 
 <div align="center">
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=onedark)](https://github.com/arkapg211002/github-profile-trophy)-->
