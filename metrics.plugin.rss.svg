@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LLaMA2 Chat 70B outperformed ChatGPT</div>
+                                <div class="title">Faster Filesystem Access with Directfs</div>
                                 <div class="date">27 Jul 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Wavy walls use fewer bricks than a straight wall (2020)</div>
+                                <div class="title">Building and operating a pretty big storage system called S3</div>
                                 <div class="date">27 Jul 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres</div>
+                                <div class="title">BlazingMQ: High-performance open source message queuing system</div>
                                 <div class="date">27 Jul 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fiber-infused ink enables 3D-printed heart muscle to beat</div>
+                                <div class="title">Commander Keen's adaptive tile refresh</div>
                                 <div class="date">27 Jul 2023</div>
                             </div>
                         </div>
