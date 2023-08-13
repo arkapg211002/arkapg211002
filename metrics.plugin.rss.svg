@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Exploring the Internals of Linux v0.01</div>
-                                <div class="date">12 Aug 2023</div>
+                                <div class="title">Thermodynamic Linear Algebra</div>
+                                <div class="date">13 Aug 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tijuana's illegal sewer hookups linked to cross-border pollution</div>
-                                <div class="date">12 Aug 2023</div>
+                                <div class="title">Stan Lippman, early contributor to C++, died (2022)</div>
+                                <div class="date">13 Aug 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Carrot Problem</div>
-                                <div class="date">12 Aug 2023</div>
+                                <div class="title">VirGL – A virtual 3D GPU for use inside QEMU virtual machines</div>
+                                <div class="date">13 Aug 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Auditory illusions with examples from Daft Punk</div>
-                                <div class="date">12 Aug 2023</div>
+                                <div class="title">NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally</div>
+                                <div class="date">13 Aug 2023</div>
                             </div>
                         </div>
                     </section>
