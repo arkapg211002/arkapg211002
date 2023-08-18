@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TypeScript Is Surprisingly OK for Compilers</div>
+                                <div class="title">Short session expiration does not help security</div>
                                 <div class="date">18 Aug 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Railway Oriented Programming</div>
+                                <div class="title">Ask vs. Guess Culture</div>
                                 <div class="date">18 Aug 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fp-go: Functional Programming Library for Golang</div>
+                                <div class="title">Sargablock: Bricks from Seaweed</div>
                                 <div class="date">18 Aug 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">micro – A Modern Alternative to nano</div>
+                                <div class="title">Textual: Rapid Application Development Framework for Python</div>
                                 <div class="date">18 Aug 2023</div>
                             </div>
                         </div>
