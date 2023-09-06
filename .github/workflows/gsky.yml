@@ -1,0 +1,37 @@
+name: GithubSkyline
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */8 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    - main
+    - output
+    
+  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    
+    steps:
+     - name: GitHub Skyline
+       uses: lowlighter/metrics@latest
+       with:
+          filename: metrics.plugin.skyline.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2023
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+
+
