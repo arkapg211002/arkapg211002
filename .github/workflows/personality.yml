@@ -1,0 +1,36 @@
+name: personality
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */8 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    - main
+    - output
+    
+  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    
+    steps:
+     - name: MBTI Personality profile
+       uses: lowlighter/metrics@latest
+       with:
+         filename: metrics.plugin.16personalities.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_16personalities: yes
+         plugin_16personalities_url: https://www.16personalities.com/profiles/7d75d6bd1cf50
+         plugin_16personalities_sections: personality, traits
+         plugin_16personalities_scores: no
+
