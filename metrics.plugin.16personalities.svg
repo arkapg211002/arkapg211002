@@ -32,8 +32,8 @@
                         <div class="category mind">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">I</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="223.72000000000003 329"/>
+                                <text x="60" y="60" dominant-baseline="central">68</text>
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Introverted</span> mind</span>
@@ -43,8 +43,8 @@
                         <div class="category energy">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">O</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="197.4 329"/>
+                                <text x="60" y="60" dominant-baseline="central">60</text>
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Observant</span> energy</span>
@@ -54,8 +54,8 @@
                         <div class="category nature">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">T</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="213.85 329"/>
+                                <text x="60" y="60" dominant-baseline="central">65</text>
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Thinking</span> nature</span>
@@ -65,8 +65,8 @@
                         <div class="category tactics">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">J</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="243.46 329"/>
+                                <text x="60" y="60" dominant-baseline="central">74</text>
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Judging</span> tactics</span>
@@ -76,8 +76,8 @@
                         <div class="category identity">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">T</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="177.66000000000003 329"/>
+                                <text x="60" y="60" dominant-baseline="central">54</text>
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Turbulent</span> identity</span>
