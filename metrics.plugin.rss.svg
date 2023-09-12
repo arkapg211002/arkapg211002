@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Project Gutenberg Open Audiobook Collection</div>
+                                <div class="title">Deno vs. Bun vs. Node.js: A Feature Comparison</div>
                                 <div class="date">11 Sept 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Intuitively Understanding Harris Corner Detector</div>
+                                <div class="title">The Pinouts Book: Pinout functions for 130 commonly used components</div>
                                 <div class="date">11 Sept 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Ghidra Plays Mario</div>
-                                <div class="date">9 Sept 2023</div>
+                                <div class="title">Calculate the difference and intersection of any two regexes</div>
+                                <div class="date">11 Sept 2023</div>
                             </div>
                         </div>
                     </section>
