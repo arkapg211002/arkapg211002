@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Full Resolution Photo Archive</div>
+                                <div class="title">Choose Postgres queue technology</div>
                                 <div class="date">24 Sept 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CoRF: Colorizing Radiance Fields Using Knowledge Distillation</div>
+                                <div class="title">There's a new map style on OpenStreetMap.org</div>
                                 <div class="date">24 Sept 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Reverse-engineering the classic MK4116 16-kilobit DRAM chip</div>
-                                <div class="date">24 Sept 2023</div>
+                                <div class="title">Parsing integers quickly with AVX-512</div>
+                                <div class="date">22 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PiWrite – Kindle Paperwhite to Write</div>
+                                <div class="title">Show HN: Get your entire ChatGPT history, in Markdown files</div>
                                 <div class="date">24 Sept 2023</div>
                             </div>
                         </div>
