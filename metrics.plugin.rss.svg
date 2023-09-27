@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Arena Allocator Tips and Tricks</div>
+                                <div class="title">Mistral 7B: The best 7B model to date, Apache 2.0</div>
                                 <div class="date">27 Sept 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Writing a Debugger from Scratch: Breakpoints</div>
+                                <div class="title">Be My Eyes’ AI assistant starts rolling out</div>
                                 <div class="date">27 Sept 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A journey into the shaken baby syndrome/abusive head trauma controversy</div>
-                                <div class="date">25 Sept 2023</div>
+                                <div class="title">The most copied StackOverflow snippet of all time is flawed (2019)</div>
+                                <div class="date">27 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Unity like game editor running in pure WASM</div>
-                                <div class="date">26 Sept 2023</div>
+                                <div class="title">Deno Queues</div>
+                                <div class="date">27 Sept 2023</div>
                             </div>
                         </div>
                     </section>
