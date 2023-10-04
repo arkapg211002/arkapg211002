@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The time Terry Pratchett’s German publisher inserted a soup ad into his novel</div>
+                                <div class="title">An Interactive Intro to CRDTs</div>
                                 <div class="date">4 Oct 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Enabling IPv6 support for IPv4-only apps on Linux</div>
+                                <div class="title">Show HN: Classic Video Poker (Godot is awesome!)</div>
                                 <div class="date">4 Oct 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Extracting Hacker News Book Recommendations with the ChatGPT API</div>
+                                <div class="title">1.3B Worldcat scrape and data science mini-competition</div>
                                 <div class="date">4 Oct 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Puzzle Languages</div>
-                                <div class="date">3 Oct 2023</div>
+                                <div class="title">Think Before You Speak: Training Language Models with Pause Tokens</div>
+                                <div class="date">4 Oct 2023</div>
                             </div>
                         </div>
                     </section>
