@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TimeGPT-1</div>
-                                <div class="date">13 Oct 2023</div>
+                                <div class="title">How to cook ground meat perfectly without vision</div>
+                                <div class="date">14 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Extinct goat was cold-blooded (2009)</div>
+                                <div class="title">Words that deserve wider use</div>
                                 <div class="date">13 Oct 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MathJax: Beautiful and accessible math in all browsers</div>
-                                <div class="date">13 Oct 2023</div>
+                                <div class="title">Gsplat: CUDA accelerated rasterization of gaussians with Python bindings</div>
+                                <div class="date">14 Oct 2023</div>
                             </div>
                         </div>
                     </section>
