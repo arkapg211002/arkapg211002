@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building a unikernel that runs WebAssembly – part 1</div>
+                                <div class="title">Software Disenchantment</div>
                                 <div class="date">23 Oct 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tailwind vs. Semantic CSS</div>
+                                <div class="title">Java implementation of a quantum computing resistant cryptographic algorithm</div>
                                 <div class="date">23 Oct 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cortical Labs: "Human neural networks raised in a simulation"</div>
+                                <div class="title">Protomaps – A free and open source map of the world</div>
                                 <div class="date">23 Oct 2023</div>
                             </div>
                         </div>
