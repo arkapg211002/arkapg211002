@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How does macOS manage virtual cores on Apple Silicon?</div>
-                                <div class="date">23 Oct 2023</div>
+                                <div class="title">Unified versus Split Diff</div>
+                                <div class="date">24 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cascade: CPU Fuzzing via Intricate Program Generation</div>
-                                <div class="date">23 Oct 2023</div>
+                                <div class="title">SumatraPDF Reader</div>
+                                <div class="date">24 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">COBOL on Wheelchair: Micro web-framework for COBOL</div>
-                                <div class="date">23 Oct 2023</div>
+                                <div class="title">Show HN: Revert – open-source unified API for product integrations</div>
+                                <div class="date">24 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Java implementation of a quantum computing resistant cryptographic algorithm</div>
-                                <div class="date">23 Oct 2023</div>
+                                <div class="title">NASA just sent a software update to a spacecraft 12B miles away</div>
+                                <div class="date">24 Oct 2023</div>
                             </div>
                         </div>
                     </section>
