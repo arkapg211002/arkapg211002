@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse</div>
+                                <div class="title">Was Rust Worth It?</div>
                                 <div class="date">25 Oct 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Web Components Will Outlive Your JavaScript Framework</div>
+                                <div class="title">iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices</div>
                                 <div class="date">25 Oct 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What Transport for London can learn about us from our mobiles</div>
+                                <div class="title">How to find a lost phone in a no-cell-coverage camping site?</div>
                                 <div class="date">25 Oct 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SpaceX Starship Super Heavy Project at the Boca Chica Launch Site</div>
-                                <div class="date">25 Oct 2023</div>
+                                <div class="title">System Design 101</div>
+                                <div class="date">24 Oct 2023</div>
                             </div>
                         </div>
                     </section>
