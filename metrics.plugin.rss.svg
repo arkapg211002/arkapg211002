@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We migrated our back end from Vercel to Fly.io and the challenges we faced</div>
-                                <div class="date">29 Oct 2023</div>
+                                <div class="title">Web FM synthesizer made with HTML5</div>
+                                <div class="date">30 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linear Algebra Done Right – 4th Edition</div>
-                                <div class="date">29 Oct 2023</div>
+                                <div class="title">Porting OpenBSD Pledge() to Linux (2022)</div>
+                                <div class="date">27 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DIY IP-KVM Based on Raspberry Pi</div>
-                                <div class="date">29 Oct 2023</div>
+                                <div class="title">The death of a public intellectual</div>
+                                <div class="date">30 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Alan Wake 2 Is an Unexpected Visual Marvel Even on Older GPUs</div>
-                                <div class="date">29 Oct 2023</div>
+                                <div class="title">Old Unix programs running on modern computers</div>
+                                <div class="date">26 Oct 2023</div>
                             </div>
                         </div>
                     </section>
