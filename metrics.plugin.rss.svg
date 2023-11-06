@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Racket branch of Chez Scheme merging with mainline Chez Scheme</div>
+                                <div class="title">Mastering DOM manipulation with vanilla JavaScript</div>
                                 <div class="date">6 Nov 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle</div>
+                                <div class="title">Show HN: Ladder, open source alternative to 12ft.io and 1ft.io</div>
                                 <div class="date">6 Nov 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">milliForth</div>
+                                <div class="title">Who's Behind the Swat USA Reshipping Service?</div>
                                 <div class="date">6 Nov 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Intel 80386, a Revolutionary CPU</div>
-                                <div class="date">5 Nov 2023</div>
+                                <div class="title">The first stable release of a memory safe sudo implementation</div>
+                                <div class="date">6 Nov 2023</div>
                             </div>
                         </div>
                     </section>
