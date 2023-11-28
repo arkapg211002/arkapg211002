@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The `hanging-punctuation property` in CSS</div>
+                                <div class="title">Modern C++ Programming Course</div>
                                 <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My toddler loves planes, so I built her a radar</div>
-                                <div class="date">27 Nov 2023</div>
+                                <div class="title">Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]</div>
+                                <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Simplifying Transformer Blocks</div>
+                                <div class="title">Eclipse ThreadX</div>
                                 <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
