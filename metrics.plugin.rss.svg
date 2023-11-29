@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My $500M Mars Rover Mistake: A Failure Story</div>
+                                <div class="title">My $500M Mars rover mistake</div>
                                 <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trojan Room Coffee Pot</div>
+                                <div class="title">Writing documentation for your house</div>
                                 <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scientists succeed in growing dolomite in the lab</div>
-                                <div class="date">27 Nov 2023</div>
+                                <div class="title">GitMounter: A FUSE filesystem for Git repositories</div>
+                                <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
                     </section>
