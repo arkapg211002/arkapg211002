@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Modern C++ Programming Course</div>
+                                <div class="title">My $500M Mars Rover Mistake: A Failure Story</div>
                                 <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]</div>
+                                <div class="title">MeshGPT: Generating triangle meshes with decoder-only transformers</div>
                                 <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Eclipse ThreadX</div>
+                                <div class="title">Trojan Room Coffee Pot</div>
                                 <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Designing a SIMD Algorithm from Scratch</div>
-                                <div class="date">28 Nov 2023</div>
+                                <div class="title">Scientists succeed in growing dolomite in the lab</div>
+                                <div class="date">27 Nov 2023</div>
                             </div>
                         </div>
                     </section>
