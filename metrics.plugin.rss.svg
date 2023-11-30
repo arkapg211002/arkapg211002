@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Roundcube open-source webmail software merges with Nextcloud</div>
+                                <div class="title">Llamafile lets you distribute and run LLMs with a single file</div>
                                 <div class="date">29 Nov 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Freetar – an alternative front end for ultimate-guitar.com</div>
+                                <div class="title">Write shaders for the (sim) Vegas sphere</div>
                                 <div class="date">29 Nov 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rust std fs slower than Python</div>
+                                <div class="title">Who makes the most reliable new cars?</div>
                                 <div class="date">29 Nov 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My $500M Mars rover mistake</div>
-                                <div class="date">28 Nov 2023</div>
+                                <div class="title">Jaq – A jq clone focused on correctness, speed, and simplicity</div>
+                                <div class="date">29 Nov 2023</div>
                             </div>
                         </div>
                     </section>
