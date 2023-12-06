@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Beeper Mini – iMessage Client for Android</div>
-                                <div class="date">5 Dec 2023</div>
+                                <div class="title">Why Is Jepsen Written in Clojure?</div>
+                                <div class="date">6 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Virtual Machine as a Core Android Primitive</div>
+                                <div class="title">All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more</div>
                                 <div class="date">5 Dec 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Governor of Amazonas wants to charge Amazon royalties for use of the brand</div>
+                                <div class="title">Virtual Machine as a core Android Primitive</div>
                                 <div class="date">5 Dec 2023</div>
                             </div>
                         </div>
