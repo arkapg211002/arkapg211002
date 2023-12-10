@@ -1,4 +1,3 @@
-
 <!--ARKAPRATIM GHOSH-->
 <!--https://github.com/arkapg211002/arkapg211002/blob/main/16555412391119880693modified.gif-->
 <div align="center">
@@ -6,7 +5,7 @@
 </div>  
 <!--https://github.com/arkapg211002/arkapg211002/blob/main/16555412391119880693modified2.gif-->
 
-<!--iNTRODUCTION-->
+<!--INTRODUCTION-->
 <table align="center"><tr>
 <td align="center"><div align="center">
 <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" align="center" style="width: 100%" />
@@ -41,7 +40,6 @@
 </td>
 </tr>
 
-  
 <tr>
 <td valign="center" width="33%">
   <div align="center">
@@ -96,12 +94,9 @@
 </table>
 </br>
 </br>
-  
-  
-  
-  
 
-<!--MY SKILL SET--> 
+
+<!--MY SKILL SET-->
 <h2><div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/textskillset.gif" align="center" style="width: 100%" />
 </div>  
@@ -151,7 +146,7 @@
 <td valign="top" width="33%">
 
 <!-- BACKEND-->
-  
+
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(5).gif" align="center" style="width: 100%" />
 </div>
@@ -185,7 +180,7 @@
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(4).gif" align="center" style="width: 100%" />
 </div>  
   </br></br>
-<div align="center">  
+<div align="center">
 
 <img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="55" />  
 <!--<img style="margin: 10px" src="https://th.bing.com/th/id/R.817d6c92eb47961d66e90daac3a49e6e?rik=sB26iv%2fKqpaDJw&riu=http%3a%2f%2ffc02.deviantart.net%2ffs70%2fi%2f2011%2f355%2f9%2f2%2fjava_flurry_icon_by_flakshack-d4jt21r.png&ehk=2DnXeDoVK6cy3e0JGHzgChOjiue4ud3Yz9YvAHQR7YM%3d&risl=&pid=ImgRaw&r=0" alt="Java" height="60" />  -->
@@ -196,10 +191,9 @@
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />  </br>-->
 <img style="margin: 10px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="70" /> 
 <img style="margin: 10px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind css" height="70" /> 
-<img style="margin: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React js" height="70" /> 
+<img style="margin: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React js" height="70" />
 
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  -->
- 
 
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  -->
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  -->
@@ -212,7 +206,6 @@
 </table>
 <br/>
 <br/>
-
 
 <!-- data analysis -->
 <!--
@@ -231,7 +224,7 @@
 
 <td align="center" width="30%">
 
-<div align="center">  
+<div align="center">
 <img style="margin: 10px" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="55" /></br>
 <img style="margin: 10px" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="55" /></br>
 <img style="margin: 10px" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" height="55" />  </br>
@@ -299,9 +292,9 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="75" />
 <img style="margin: 10px" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="lightroom" height="75" />
 
-<!--<img style="margin: 10px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" height="50" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodecamp" height="50" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
+<!--<img style="margin: 10px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" height="50" />
+<img style="margin: 10px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodecamp" height="50" />
+<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />
 <img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
 <!--<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="55" />
 <img style="margin: 10px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" height="55" />
@@ -314,14 +307,10 @@
   </br>
   </br>
 
-
-
-
-
 <!--IDE-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/textide.gif" align="center" style="width: 100%" />
-</div>  
+</div>
 
 <table><tr>
 <td align="center" width="23%">
@@ -338,7 +327,6 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm" height="68" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef" height="68" />
 <img style="margin: 10px" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab" height="68" />
-  
 
 </div>
 </td>
@@ -347,13 +335,11 @@
 </table>
 </br>
 </br>
-  
-
 
 <!--cONNECT WITH ME-->
  <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(2).gif" align="center" style="width: 100%" />
-</div>  
+</div>
 
   <p align="center">
 
@@ -363,20 +349,19 @@
 <a href="https://www.linkedin.com/in/arkapratim-ghosh21102002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkapratim ghosh✌️😀" height="40" width="40" /></a>
 
 <a href="https://www.facebook.com/profile.php?id=100073622645041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkapratim ghosh" height="40" width="40" /></a>
-  
-<a href="https://instagram.com/arkapratimghosh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkapratimghosh2002" height="40" width="40" /></a>
-  
-<a href="https://www.youtube.com/channel/UCiEmyIAcdlj-3dM6iMpuIFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1058_arkapratim ghosh_cse_b" height="40" width="40" /></a>
-  
-<a href="https://www.codechef.com/users/arka21102002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arkapg211002" height="40" width="40" /></a>
-  
 
-  
+<a href="https://instagram.com/arkapratimghosh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkapratimghosh2002" height="40" width="40" /></a>
+
+<a href="https://www.youtube.com/channel/UCiEmyIAcdlj-3dM6iMpuIFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1058_arkapratim ghosh_cse_b" height="40" width="40" /></a>
+
+<a href="https://www.codechef.com/users/arka21102002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arkapg211002" height="40" width="40" /></a>
+
 <a href="https://codeforces.com/profile/Arkapg211002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arkapg211002" height="40" width="40" /></a>
-  
+
 <a href="https://leetcode.com/Arka2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arka2002" height="40" width="40" /></a>
-  
+
 <a href="https://auth.geeksforgeeks.org/user/arkapratimghosh20021/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arkapratimghosh2002" height="50" width="50" /></a>
+
   </div>
   </td>
     <td>
@@ -389,8 +374,6 @@
   </table>
 </p>
 <br/>  <br/>
-
-
 
 <!--Workspace-->
 <div align="center">
@@ -424,18 +407,10 @@
 </br>
 </br>
 
-
-
-
-
-
-
-
 <!--GITHUB STATS-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(1).gif" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 <table align="center"><tr><td valign="center" width="30%">
 <div align="center"><img src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif" align="center" style="width: 100%" /></div>  </td>
@@ -455,30 +430,28 @@
 <!--
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.achievements.compact.svg" align="center" style="width: 100%" />
-</div>  
-<br/> 
+</div>
+<br/>
 -->
 
 <div align="center">
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=onedark)](https://github.com/arkapg211002/github-profile-trophy)-->
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=chalk" alt="arkapg211002" align="center" style="width: 90%" /></a> </div>
-<br/>  
+<br/>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)-->
-
 
 <!-- Activity graph -->
 
 <div align="center">
 <img src="https://github-readme-activity-graph-brown.vercel.app/graph?username=arkapg211002&theme=green" align="center" style="width: 100%" />
 </div>  
-<br/> 
+<br/>
 
 <!--<div align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MY ACTIVITY GRAPH" src="https://activity-graph.herokuapp.com/graph?username=arkapg211002" /></a>
-</div>  
+</div>
 <br/> -->
-
 
 <!--https://github.com/arkapg211002/arkapg211002/blob/main/profile-3d-contrib/profile-night-rainbow.svg-->
 <!-- https://github.com/arkapg211002/arkapg211002/blob/main/profile-3d-contrib/profile-night-green.svg-->
@@ -488,12 +461,10 @@
 <!-- https://github.com/arkapg211002/arkapg/blob/main/profile-3d-contrib/profile-season-animate.svg -->
 <img src="https://github.com/arkapg211002/arkapg/blob/main/profile-3d-contrib/profile-season-animate.svg" align="center" style="width: 100%" />
 </div>  
-<br/> 
+<br/>
 
 <!--summary card-->
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkapg211002&theme=monokai" align="center" style="width: 100%" /></div></br>
-
-
 
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.activity.svg" align="center" style="width: 100%" />
@@ -525,7 +496,6 @@
 </div>
 </br>
 
-
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.isocalendar.fullyear.svg" align="center" style="width: 100%" />
 </div>
@@ -551,8 +521,6 @@
 </div>
 </br>
 
-
-
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/main/metrics.plugin.repositories.svg" align="center" style="width: 100%" />
 </div>
@@ -563,8 +531,6 @@
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.people.followers.svg" align="center" style="width: 100%" />
 </div>
 </br>
-
-
 
 <!--<div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/main/metrics.plugin.skyline.svg" align="center" style="width: 100%" />
@@ -582,21 +548,19 @@
 </div>
 </br>
 
-
-
 <!--SNAKE EATING CONTRIBUTION GRAPH-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(3).gif" align="center" style="width: 100%" />
-</div> 
+</div>
 
 <!--terminal-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/terminal.gif" align="center" style="width: 100%" />
-</div> 
+</div>
 
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
-</div> 
+</div>
 
 <!--newsfeed-->
 <div align="center">
@@ -614,28 +578,20 @@
 -->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/main/metrics.plugin.screenshot.svg" align="center" style="width: 100%"/>
-</div> 
+</div>
 
 </br> 
 </br>
 
-
-
-
-
-
-
 <!--JOKE-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/textjoke.gif" align="center" style="width: 100%" />
-</div> 
-
-
+</div>
 
 <!--NOT THE END GIF-->
 <div align="center">
 <img src="https://i.pinimg.com/originals/ef/a9/39/efa9396fe51653bc074f75d2252692d0.gif" align="center" style="width: 100%" />
-</div>  
+</div>
 
 <!--
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=arkapg211002/arkapg211002)
@@ -647,10 +603,7 @@
 
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" align="center" style="width: 100%"/>
-</div> 
-
-
-
+</div>
 
 <!--Meme-->
 
@@ -670,15 +623,14 @@
 <img src="https://media.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif" align="center" style="width: 100%" />
 </div>
   </td>
-  
+
   </tr>
 </table>
 </br>
 -->
-  
 
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tn82asvo8ir4phta5ea0jtcds&unique={true|1|on|yes}) --unique 
-     
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tn82asvo8ir4phta5ea0jtcds&unique={true|1|on|yes}) --unique
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tn82asvo8ir4phta5ea0jtcds) --markdown code snippet
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tn82asvo8ir4phta5ea0jtcds&count={count}) --count
@@ -693,8 +645,7 @@ SPOTIFY PLAYLIST
 <div align="center">  
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=io9hcdw12a0aysz2i05i6m7gn&count=3" align="center" style="width: 100%" />
 
-
-<!--<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
+<!--<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />
 <img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
 </div>
 </td>
@@ -731,7 +682,6 @@ SPOTIFY PLAYLIST
 <!--
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=arkapg211002&&style=flat-square" align="right" style="width: 33%"/>
-</div> 
+</div>
 </br>
  -->
-
