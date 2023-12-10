@@ -711,10 +711,11 @@ SPOTIFY PLAYLIST
 </br>
 
 <!-- personality -->
+<!--
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.16personalities.svg" align="center" style="width: 100%"/>
 </div>
-
+-->
 
 <!--ending banner-->
 <div align="center">
