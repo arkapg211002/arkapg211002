@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Understanding every byte in a WASM module</div>
+                                <div class="title">StreamDiffusion: Over 100fps Stable Diffusion on a 4090</div>
                                 <div class="date">23 Dec 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Endurain: Self-hosted Strava like service</div>
+                                <div class="title">The Art of Electronics (3rd Edition)</div>
                                 <div class="date">23 Dec 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Johnson Solids (2019)</div>
+                                <div class="title">Xmas.c, winner of the 1988 International Obfuscated C Code Contest</div>
                                 <div class="date">23 Dec 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DIY ventilation heat exchanger (2010)</div>
+                                <div class="title">Ask yourself dumb questions – and answer them</div>
                                 <div class="date">23 Dec 2023</div>
                             </div>
                         </div>
