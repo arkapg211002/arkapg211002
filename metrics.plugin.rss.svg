@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Challenging projects every programmer should try (2019)</div>
+                                <div class="title">Black Triangles (2014)</div>
                                 <div class="date">26 Dec 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The life and death of open source companies</div>
+                                <div class="title">Lab Notebooks (2020)</div>
                                 <div class="date">26 Dec 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stirling-PDF: local web application to perform various operations on PDFs</div>
-                                <div class="date">25 Dec 2023</div>
+                                <div class="title">A copy-and-patch JIT compiler for CPython</div>
+                                <div class="date">26 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Goodsteins theorem</div>
-                                <div class="date">23 Dec 2023</div>
+                                <div class="title">Show HN: Print-friendly minimalist CV website</div>
+                                <div class="date">26 Dec 2023</div>
                             </div>
                         </div>
                     </section>
