@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NERV Disaster Prevention</div>
-                                <div class="date">1 Jan 2024</div>
+                                <div class="title">Eating fewer calories can ward off ageing</div>
+                                <div class="date">2 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A* tricks for videogame path finding</div>
-                                <div class="date">1 Jan 2024</div>
+                                <div class="title">Push Notifications – What to Push, What Not to Push, and How Often</div>
+                                <div class="date">2 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Running 9front on an emulated SGI Indy via MAME</div>
+                                <div class="date">2 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory</div>
-                                <div class="date">1 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Writing a TrueType font renderer</div>
                                 <div class="date">1 Jan 2024</div>
                             </div>
                         </div>
