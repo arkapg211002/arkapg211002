@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What Does the Cerebellum Do?</div>
-                                <div class="date">7 Jan 2024</div>
+                                <div class="title">MotorOS: a Rust-first operating system for x64 VMs</div>
+                                <div class="date">8 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)</div>
-                                <div class="date">7 Jan 2024</div>
+                                <div class="title">Visualizing Ext4</div>
+                                <div class="date">8 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">When random numbers are too random: Low discrepancy sequences (2017)</div>
-                                <div class="date">7 Jan 2024</div>
+                                <div class="title">Why use strace in 2023? [video]</div>
+                                <div class="date">8 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GitUI</div>
-                                <div class="date">7 Jan 2024</div>
+                                <div class="title">Show HN: I made a HTMX Playground 100% in the browser</div>
+                                <div class="date">8 Jan 2024</div>
                             </div>
                         </div>
                     </section>
