@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to Delete Your Data from Data Brokers</div>
+                                <div class="title">When Random Isn't</div>
                                 <div class="date">14 Jan 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention</div>
+                                <div class="title">NixOS: Declarative Builds and Deployments</div>
                                 <div class="date">14 Jan 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: #!/usr/bin/env docker run</div>
-                                <div class="date">14 Jan 2024</div>
+                                <div class="title">A Suprising Discovery Inside the Steam Deck's APU</div>
+                                <div class="date">13 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OnnxStream running TinyLlama and Mistral 7B, with CUDA support</div>
+                                <div class="title">Vanna.ai: Chat with your SQL database</div>
                                 <div class="date">14 Jan 2024</div>
                             </div>
                         </div>
