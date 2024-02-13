@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stable-Audio-Demo</div>
+                                <div class="title">Is something bugging you?</div>
                                 <div class="date">13 Feb 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">John Locke's recipe for Pancakes (2021)</div>
+                                <div class="title">A Git client for simultaneous branches on top of your existing workflow</div>
                                 <div class="date">13 Feb 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Shell scripting with Elixir</div>
-                                <div class="date">12 Feb 2024</div>
+                                <div class="title">The Catalogue of UK Entrances to Hell (2002)</div>
+                                <div class="date">13 Feb 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Visual calculus</div>
+                                <div class="title">Sparkle: A software update framework for macOS</div>
                                 <div class="date">13 Feb 2024</div>
                             </div>
                         </div>
