@@ -102,239 +102,46 @@
 </div>  
 </h2>
 <!--lANGUAGES-->
+
+<!--
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/LAMGUAGES.gif" align="center" style="width: 100%" />
 </div>
 </br>
 
-<table><tr>
-<td align="center" width="33%">
+-->
 
-  <div align="center">
+<table>
+  <tr>
+<td align="center" width="33%">
+<div align="center">
 <img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif" align="center" style="width: 100%" />
-</div>
-  </td>
-
-<td align="center" width="30%">
-<!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="55" /></br>
-<img style="margin: 10px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="55" /></br>
-<img style="margin: 10px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="55" />  </br>
-<!--<img style="margin: 10px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" height="50" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodecamp" height="50" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
-<!--<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="55" /> -->
-<!--<img style="margin: 10px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" height="55" /> -->
-<!--<img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="55" /> 
-<img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="55" /> -->
-</div>
-</td>
-  </tr>
-  </table>
-  </br>
-  </br>
-  
-<!--Web development-->
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/WEB%20DEV.gif" align="center" style="width: 100%" />
-</div>
-
-</br>
-<table><tr>
-<td valign="top" width="33%">
-
-<!-- BACKEND-->
-
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(5).gif" align="center" style="width: 100%" />
-</div>
-  </br></br>
-<div align="center">  
-<!--<img style="margin: 10px" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height="55" /> -->
-<img style="margin: 10px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="55" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" height="55" />  </br>
-  <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="55" />
-  <img style="margin: 10px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" height="55" />
-  <img style="margin: 10px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node js" height="55" />
-  
-<!--<img style="margin: 10px" src="https://nativescript.org/images/0tw5g4s3bv4xoxr6espf.png" alt="NPM" height="55" />  -->
-<!--<img style="margin: 10px" src="https://ajeetchaulagain.com/static/a3d362eac404a6b6e3046f8fc681392c/92a94/express-js.png" alt="Express.js" height="75" /> --> 
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="95" />  -->
-  
-</div>
-</td>
-  
-<td align="center" width="36%">
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/Front-End-Developers.gif" align="center" style="width: 100%" />
-</div>  
-</td>
-  
-<td valign="top" width="33%">
-  
-<!-- FRONTEND-->
-
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(4).gif" align="center" style="width: 100%" />
-</div>  
-  </br></br>
-<div align="center">
-
-<img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="55" />  
-<!--<img style="margin: 10px" src="https://th.bing.com/th/id/R.817d6c92eb47961d66e90daac3a49e6e?rik=sB26iv%2fKqpaDJw&riu=http%3a%2f%2ffc02.deviantart.net%2ffs70%2fi%2f2011%2f355%2f9%2f2%2fjava_flurry_icon_by_flakshack-d4jt21r.png&ehk=2DnXeDoVK6cy3e0JGHzgChOjiue4ud3Yz9YvAHQR7YM%3d&risl=&pid=ImgRaw&r=0" alt="Java" height="60" />  -->
-<img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="70" />  </br>
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  -->
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  -->
-<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="70" />  
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />  </br>-->
-<img style="margin: 10px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="70" /> 
-<img style="margin: 10px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind css" height="70" /> 
-<img style="margin: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React js" height="70" />
-
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  -->
-
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  -->
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  -->
-
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  -->
-<!--<img style="margin: 10px" src="https://pngmind.com/wp-content/uploads/2019/08/Inkscape-Logo-Png.jpg" alt="Inkscape" height="50" /> -->
-<!--<img style="margin: 10px" src="https://pnggrid.com/wp-content/uploads/2021/05/Canva-Logo-Transparent-1536x1536.png" alt="Canva" height="50" /> -->
-</div>
-</td>
-</table>
-<br/>
-<br/>
-
-<!-- data analysis -->
-<!--
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/Data-analysis-gif.gif" align="center" style="width: 100%" />
-</div>
-</br>
-
-<table><tr>
-<td align="center" width="33%">
-
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/data-analysis-action.gif" align="center" style="width: 100%" />
-</div>
-</td>
-
-<td align="center" width="30%">
-
-<div align="center">
-<img style="margin: 10px" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="55" /></br>
-<img style="margin: 10px" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="55" /></br>
-<img style="margin: 10px" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" height="55" />  </br>
-<img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" height="55" /></br>
-<img style="margin: 10px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau" height="55" /></br>
-<img style="margin: 10px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power bi" height="55" />  </br>
 </div>
 </td>
 </tr>
 </table>
-</br>
-</br>
--->
 
-<!--Cloud-->
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/CLOUD.gif" align="center" style="width: 100%" />
-</div>
-</br>
-
-<table><tr>
-<td align="center" width="20%">
-<!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="50" />
-<img style="margin: 10px" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" height="50" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oci" height="50" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="salesforce" height="50" />  
- 
-<!--<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
-</div>
-</td>
-  
-<td align="center" width="33%">
-
-  <div align="center">
-<img src="https://www.iwebscraping.com/images/Financial-Market-Research-&-Analysis1.gif?ssl%20alt=" align="center" style="width: 100%" />
-</div>
-  </td>
-  
-  </tr>
-</table>
-</br>
-</br>
-
-<!--Design-->
-
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/DESIGN.gif" align="center" style="width: 100%" />
-</div>
-</br>
-
-<table><tr>
-<td align="center" width="20%">
-
-  <div align="center">
-<img src="https://i.pinimg.com/originals/3a/ba/b6/3abab6afe878553af574b187e5ef2168.gif" align="center" style="width: 100%" />
-</div>
-  </td>
-
-<td align="center" width="30%">
-<!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="75" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="lightroom" height="75" />
-
-<!--<img style="margin: 10px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" height="50" />
-<img style="margin: 10px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodecamp" height="50" />
-<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
-<!--<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="55" />
-<img style="margin: 10px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" height="55" />
-<img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="55" />
-<img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="55" /> -->
-</div>
-</td>
-  </tr>
-  </table>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   </br>
   </br>
-
-<!--IDE-->
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/textide.gif" align="center" style="width: 100%" />
-</div>
-
-<table><tr>
-<td align="center" width="23%">
-
-  <div align="center">
-<img src="https://www.sphinx-solution.com/blog/wp-content/uploads/2016/02/TECH.gif" align="center" style="width: 100%" />
-</div>
-  </td>
-<td align="center" width="23%">
-<!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" height="68" />
-<img style="margin: 10px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellijidea" height="68" />
-<img style="margin: 10px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm" height="68" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef" height="68" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab" height="68" />
-
-</div>
-</td>
-
-  </tr>
-</table>
-</br>
-</br>
+  </br>
 
 <!--cONNECT WITH ME-->
  <div align="center">
@@ -350,13 +157,7 @@
 
 <a href="https://www.facebook.com/profile.php?id=100073622645041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkapratim ghosh" height="40" width="40" /></a>
 
-<a href="https://instagram.com/arkapratimghosh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkapratimghosh2002" height="40" width="40" /></a>
-
-<a href="https://www.youtube.com/channel/UCiEmyIAcdlj-3dM6iMpuIFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1058_arkapratim ghosh_cse_b" height="40" width="40" /></a>
-
-<a href="https://www.codechef.com/users/arka21102002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arkapg211002" height="40" width="40" /></a>
-
-<a href="https://codeforces.com/profile/Arkapg211002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arkapg211002" height="40" width="40" /></a>
+<a href="https://www.instagram.com/apghosh2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkapratimghosh2002" height="40" width="40" /></a>
 
 <a href="https://leetcode.com/Arka2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arka2002" height="40" width="40" /></a>
 
