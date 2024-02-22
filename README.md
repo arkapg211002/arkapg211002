@@ -19,7 +19,7 @@
   <!--<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(9).gif" align="center" style="width: 90%" />
   <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(10).gif" align="center" style="width: 90%" />
   <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(11).gif" align="center" style="width: 90%" /> -->
-  <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/competitive.gif" align="center" style="width: 90%" />
+  
   <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/programmer.gif" align="center" style="width: 90%" />
   
   </div>
