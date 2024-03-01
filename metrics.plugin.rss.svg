@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A lock-free ring-buffer with contiguous reservations (2019)</div>
+                                <div class="title">Defcon: Preventing overload with graceful feature degradation (2023)</div>
                                 <div class="date">29 Feb 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Unearthing the Oldest Forest on Earth</div>
+                                <div class="title">GGUF, the Long Way Around</div>
                                 <div class="date">29 Feb 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Esperanto, Toki Pona, Swahili, Indonesian</div>
+                                <div class="title">Functional ownership through fractional uniqueness</div>
                                 <div class="date">29 Feb 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The KDE desktop gets an overhaul with Plasma 6</div>
-                                <div class="date">29 Feb 2024</div>
+                                <div class="title">Antarctic English</div>
+                                <div class="date">28 Feb 2024</div>
                             </div>
                         </div>
                     </section>
