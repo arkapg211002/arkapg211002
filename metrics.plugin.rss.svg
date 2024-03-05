@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Astro App</div>
+                                <div class="title">Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"</div>
                                 <div class="date">4 Mar 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude 3 model family</div>
+                                <div class="title">How I keep myself alive using Golang</div>
                                 <div class="date">4 Mar 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Singapore Airlines Concorde</div>
+                                <div class="title">The hunt for the missing data type</div>
                                 <div class="date">4 Mar 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I made a bad camera lens from some old glasses [video]</div>
-                                <div class="date">4 Mar 2024</div>
+                                <div class="title">World Server Throwing Championship</div>
+                                <div class="date">3 Mar 2024</div>
                             </div>
                         </div>
                     </section>
