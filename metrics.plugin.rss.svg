@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: RE3 – Reversed Engineered GTA3 Source Code</div>
+                                <div class="title">Launch HN: Onedoc (YC W24) – A better way to create PDFs</div>
                                 <div class="date">11 Mar 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Monte-Carlo graph search from first principles</div>
-                                <div class="date">10 Mar 2024</div>
+                                <div class="title">GrapheneOS finds Bluetooth memory corruption via ARM MTE</div>
+                                <div class="date">11 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LocalSend: Open-source, cross-platform file sharing to nearby devices</div>
-                                <div class="date">10 Mar 2024</div>
+                                <div class="title">Building an Open Source Decentralized E-Book Search Engine</div>
+                                <div class="date">11 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Did the whole pairdrop repo just vanished? #356</div>
+                                <div class="title">The Secret Life of XY Monitors</div>
                                 <div class="date">11 Mar 2024</div>
                             </div>
                         </div>
