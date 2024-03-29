@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How We’ll Reach a 1 Trillion Transistor GPU</div>
+                                <div class="title">You can't leak users' data if you don't hold it</div>
                                 <div class="date">28 Mar 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I scraped all of OpenAI's Community Forum</div>
+                                <div class="title">Deep Learning in JavaScript</div>
                                 <div class="date">28 Mar 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SBF Sentenced to 25 years in Prison</div>
+                                <div class="title">Doom Captcha</div>
                                 <div class="date">28 Mar 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sam Bankman-Fried Sentenced to 25 Years</div>
+                                <div class="title">Jamba: Production-grade Mamba-based AI model</div>
                                 <div class="date">28 Mar 2024</div>
                             </div>
                         </div>
