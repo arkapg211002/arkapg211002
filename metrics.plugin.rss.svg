@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Redox: Significant performance and correctness improvements to the kernel</div>
-                                <div class="date">30 Mar 2024</div>
+                                <div class="title">Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic</div>
+                                <div class="date">31 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Running OCR against PDFs and images directly in the browser</div>
+                                <div class="title">xz: A Microcosm of the interactions in Open Source projects</div>
                                 <div class="date">30 Mar 2024</div>
                             </div>
                         </div>
