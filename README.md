@@ -160,7 +160,7 @@
 <a href="https://www.instagram.com/apghosh2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkapratimghosh2002" height="40" width="40" /></a>
 
 <!--
-<a href="https://leetcode.com/Arka2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arka2002" height="40" width="40" /></a>
+<a href="https://leetcode.com/21Arka2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arka2002" height="40" width="40" /></a>
 -->
 
 <!--
