@@ -302,20 +302,26 @@
 </div>
 </br>
 
+<!--
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.isocalendar.fullyear.svg" align="center" style="width: 100%" />
 </div>
 </br>
+-->
 
+<!--
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.languages.indepth.svg" align="center" style="width: 100%" />
 </div>
 </br>
+-->
 
+<!--
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.lines.svg" align="center" style="width: 100%" />
 </div>
 </br>
+-->
 
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.stargazers.svg" align="center" style="width: 100%" />
@@ -368,17 +374,7 @@
 <img src="https://github.com/arkapg211002/arkapg/blob/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
 </div>
 
-<!--newsfeed-->
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.rss.svg" align="center" style="width: 100%"/>
-</div> 
-</br>
-<!-- https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.posts.full.svg -->
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.posts.full.svg" align="center" style="width: 100%"/>
-</div> 
-</br> 
-</br>
+
 
 <!-- xcd screenshot
 -->
