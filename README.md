@@ -354,12 +354,6 @@
 </div>
 </br>
 
-<!-- pagespeed -->
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.pagespeed.screenshot.svg" align="center" style="width: 100%" />
-</div>
-</br>
-
 <!--SNAKE EATING CONTRIBUTION GRAPH-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(3).gif" align="center" style="width: 100%" />
@@ -373,17 +367,6 @@
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg/blob/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
 </div>
-
-
-
-<!-- xcd screenshot
--->
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/main/metrics.plugin.screenshot.svg" align="center" style="width: 100%"/>
-</div>
-
-</br> 
-</br>
 
 <!--JOKE-->
 <div align="center">
