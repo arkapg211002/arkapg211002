@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Beeper acquired by Automattic (WordPress)</div>
+                                <div class="title">A MySQL compatible database engine written in pure Go</div>
                                 <div class="date">9 Apr 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New Grafana Loki UI: No LogQL Required</div>
+                                <div class="title">Intel Gaudi 3 AI Accelerator</div>
                                 <div class="date">9 Apr 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google's Chrome Antitrust Paradox</div>
+                                <div class="title">Show HN: We built PriceLevel to find out what companies pay for SaaS</div>
                                 <div class="date">9 Apr 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chronon, Airbnb's ML Feature Platform, Is Now Open Source</div>
-                                <div class="date">8 Apr 2024</div>
+                                <div class="title">Building Reliable Systems Out of Unreliable Agents</div>
+                                <div class="date">9 Apr 2024</div>
                             </div>
                         </div>
                     </section>
