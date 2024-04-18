@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Embeddings are a good starting point for the AI curious app developer</div>
-                                <div class="date">17 Apr 2024</div>
+                                <div class="title">Short Stack: World’s smallest Nintendo Wii</div>
+                                <div class="date">18 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Flying Aircraft Carriers (2019)</div>
-                                <div class="date">17 Apr 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Cyc: History's Forgotten AI Project</div>
+                                <div class="title">Hardest problem in computer science: centering things</div>
                                 <div class="date">17 Apr 2024</div>
                             </div>
                         </div>
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred</div>
                                 <div class="date">17 Apr 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Goldene: A single atom layer of gold</div>
+                                <div class="date">18 Apr 2024</div>
                             </div>
                         </div>
                     </section>
