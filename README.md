@@ -121,6 +121,7 @@
 </tr>
 </table>
 
+<!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -139,8 +140,15 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  </br>
-  </br>
+
+-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,aws,azure,bash,bootstrap,c,css,debian,django,docker,eclipse,express,firebase,gcp,github,git,githubactions,gitlab,gmail,html,heroku,idea,ai,js,jenkins,jquery,kubernetes,matlab,latex,linux,md,materialui,mongodb,mysql,nodejs,npm,php,postman,py,react,sqlite,tailwind,ubuntu,vercel,vim,vite,vscode,windows&perline=12" />
+  </a>
+</p>
+  
   </br>
 
 <!--cONNECT WITH ME-->
