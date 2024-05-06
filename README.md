@@ -145,7 +145,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,aws,azure,bash,bootstrap,c,css,debian,django,docker,eclipse,express,firebase,gcp,github,git,githubactions,gitlab,gmail,html,heroku,idea,ai,js,jenkins,jquery,kubernetes,matlab,latex,linux,md,materialui,mongodb,mysql,nodejs,npm,php,postman,py,react,sqlite,tailwind,ubuntu,vercel,vim,vite,vscode,windows&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,aws,azure,bash,bootstrap,c,css,debian,django,docker,eclipse,express,firebase,gcp,github,git,githubactions,gitlab,gmail,html,heroku,idea,ai,js,jenkins,jquery,powershell,matlab,latex,linux,md,materialui,mongodb,mysql,nodejs,npm,php,postman,py,react,sqlite,tailwind,ubuntu,vercel,vim,vite,vscode,windows&perline=12" />
   </a>
 </p>
   
