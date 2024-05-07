@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Caniemail.com (like caniuse but for email content)</div>
+                                <div class="title">Caniemail.com – like caniuse but for email content</div>
                                 <div class="date">6 May 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TOTP Authenticator for PalmOS</div>
+                                <div class="title">Design docs at Google</div>
                                 <div class="date">6 May 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New way to have complex discussions</div>
+                                <div class="title">Secure Randomness in Go 1.22</div>
                                 <div class="date">6 May 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Results of the Grand C++ Error Explosion Competition (2014)</div>
+                                <div class="title">Attackers can decloak routing-based VPNs</div>
                                 <div class="date">6 May 2024</div>
                             </div>
                         </div>
