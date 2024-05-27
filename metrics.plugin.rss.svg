@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Big Ring on the Sky</div>
+                                <div class="title">Instead of "auth", we should say "permissions" and "login"</div>
                                 <div class="date">27 May 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What the damaged Svalbard cable looked like</div>
-                                <div class="date">26 May 2024</div>
+                                <div class="title">Should I Use jwts For Authentication Tokens?</div>
+                                <div class="date">27 May 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The t-test was invented at the Guinness brewery</div>
-                                <div class="date">26 May 2024</div>
+                                <div class="title">My new PSU burns out I fix it, and torture it by cracking water</div>
+                                <div class="date">27 May 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Is regulated BGP security coming?</div>
+                                <div class="title">A 1.3B-light-year-across ring of galaxies has confounded astronomers</div>
                                 <div class="date">27 May 2024</div>
                             </div>
                         </div>
