@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Designing a Lego orrery</div>
-                                <div class="date">9 Jun 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">It is time for more holistic practices in mental health</div>
+                                <div class="title">Mexican Computers: A Brief Technical and Historical Overview</div>
                                 <div class="date">10 Jun 2024</div>
                             </div>
                         </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Libtree: Ldd as a tree saying why a library is found or not</div>
-                                <div class="date">9 Jun 2024</div>
+                                <div class="title">Show HN: Markdown HN profiles at {user}.at.hn</div>
+                                <div class="date">10 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An Introduction to ARM64 Assembly on Apple Silicon Macs</div>
-                                <div class="date">8 Jun 2024</div>
+                                <div class="title">Gainax, known for 'Evangelion' anime production, goes bankrupt</div>
+                                <div class="date">10 Jun 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?</div>
+                                <div class="date">10 Jun 2024</div>
                             </div>
                         </div>
                     </section>
