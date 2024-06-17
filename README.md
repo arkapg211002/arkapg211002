@@ -436,7 +436,7 @@ SPOTIFY PLAYLIST
 <td align="center" width="60%">
 <!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
 <div align="center">  
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=io9hcdw12a0aysz2i05i6m7gn&count=3" align="center" style="width: 100%" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=io9hcdw12a0aysz2i05i6m7gn&count=5" align="center" style="width: 100%" />
 
 <!--<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />
 <img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
