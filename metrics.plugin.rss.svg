@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Eplot: A new package for making charts in Emacs</div>
+                                <div class="title">Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version</div>
                                 <div class="date">27 Jun 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">One Million Checkboxes</div>
-                                <div class="date">26 Jun 2024</div>
+                                <div class="title">Google Sheets ported its calculation worker from JavaScript to WasmGC</div>
+                                <div class="date">27 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I built an indie, browser-based MMORPG</div>
-                                <div class="date">26 Jun 2024</div>
+                                <div class="title">Open Sourcing Kinopio</div>
+                                <div class="date">27 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Forth Deck mini: a portable Forth computer with a discrete CPU</div>
-                                <div class="date">26 Jun 2024</div>
+                                <div class="title">Is Everything BS?</div>
+                                <div class="date">27 Jun 2024</div>
                             </div>
                         </div>
                     </section>
