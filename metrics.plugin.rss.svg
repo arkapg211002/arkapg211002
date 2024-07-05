@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mechanical Computer Relies on Kirigami Cubes, Not Electronics</div>
+                                <div class="title">SCIM: Ncurses based, Vim-like spreadsheet</div>
                                 <div class="date">4 Jul 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Oldest cave art found showing humans and pig</div>
-                                <div class="date">3 Jul 2024</div>
+                                <div class="title">Gravitational wave researchers cast new light on Antikythera mechanism mystery</div>
+                                <div class="date">4 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Analyzing My Electricity Consumption</div>
-                                <div class="date">3 Jul 2024</div>
+                                <div class="title">The Snapdragon X Elite's Adreno iGPU</div>
+                                <div class="date">4 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building a data compression utility in Haskell using Huffman codes</div>
+                                <div class="title">Reverse Engineering the Verification QR Code on My Diploma</div>
                                 <div class="date">4 Jul 2024</div>
                             </div>
                         </div>
