@@ -29,17 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bcachefs, an Introduction/Exploration</div>
-                                <div class="date">26 Jul 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow</div>
-                                <div class="date">26 Jul 2024</div>
+                                <div class="title">NASA Graphics Standards Manual</div>
+                                <div class="date">22 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas</div>
                                 <div class="date">25 Jul 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">A hash table by any other name</div>
+                                <div class="date">26 Jul 2024</div>
                             </div>
                         </div>
                     </section>
