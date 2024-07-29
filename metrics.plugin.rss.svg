@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Children should be allowed to get bored, expert says (2013)</div>
+                                <div class="title">Movable tree CRDTs and Loro's implementation</div>
                                 <div class="date">29 Jul 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">tolower() with AVX-512</div>
+                                <div class="title">My mental model of setf was wrong</div>
                                 <div class="date">28 Jul 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SVG Triangle of Compromise</div>
-                                <div class="date">25 Jul 2024</div>
+                                <div class="title">Launch HN: Roame (YC S23) – Flight search engine for your credit card points</div>
+                                <div class="date">29 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ps aux written in bash without forking</div>
-                                <div class="date">29 Jul 2024</div>
+                                <div class="title">Virtual Apollo Guidance Computer</div>
+                                <div class="date">28 Jul 2024</div>
                             </div>
                         </div>
                     </section>
