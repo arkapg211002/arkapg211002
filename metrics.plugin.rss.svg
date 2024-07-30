@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SAM 2: Segment Anything in Images and Videos</div>
-                                <div class="date">29 Jul 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Diffusion Training from Scratch on a Micro-Budget</div>
+                                <div class="title">A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)</div>
                                 <div class="date">30 Jul 2024</div>
                             </div>
                         </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">All I Know About Certificates – Certificate Authority</div>
+                                <div class="title">DARPA: Translating All C to Rust (Tractor)</div>
                                 <div class="date">30 Jul 2024</div>
                             </div>
                         </div>
@@ -47,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lewis Lapham has died</div>
+                                <div class="title">Was the Internet created to survive a nuclear strike?</div>
+                                <div class="date">30 Jul 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?</div>
                                 <div class="date">30 Jul 2024</div>
                             </div>
                         </div>
