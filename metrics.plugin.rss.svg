@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)</div>
+                                <div class="title">Our Audit of Homebrew</div>
                                 <div class="date">30 Jul 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DARPA: Translating All C to Rust (Tractor)</div>
+                                <div class="title">Porffor: A from-scratch experimental ahead-of-time JS engine</div>
                                 <div class="date">30 Jul 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Was the Internet created to survive a nuclear strike?</div>
+                                <div class="title">Troubleshooting: Terminal Lag</div>
                                 <div class="date">30 Jul 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?</div>
+                                <div class="title">Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source</div>
                                 <div class="date">30 Jul 2024</div>
                             </div>
                         </div>
