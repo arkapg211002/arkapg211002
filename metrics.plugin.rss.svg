@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why I Prefer RST to Markdown</div>
+                                <div class="title">SnowflakeOS: Beginner friendly and GUI focused NixOS variant</div>
                                 <div class="date">31 Jul 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How Great Was the “Great Oxidation Event”?</div>
+                                <div class="title">Suspicious data pattern in recent Venezuelan election</div>
                                 <div class="date">31 Jul 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Divers Discover Mesmerizing Roman Mosaic Beneath the Sea</div>
-                                <div class="date">30 Jul 2024</div>
+                                <div class="title">Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri</div>
+                                <div class="date">31 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Crafting Interpreters with Rust: On Garbage Collection</div>
-                                <div class="date">30 Jul 2024</div>
+                                <div class="title">How great was the Great Oxidation Event?</div>
+                                <div class="date">31 Jul 2024</div>
                             </div>
                         </div>
                     </section>
