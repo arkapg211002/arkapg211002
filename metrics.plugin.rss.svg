@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I Program in 2024</div>
+                                <div class="title">Andy Warhol's lost Amiga art found</div>
                                 <div class="date">5 Aug 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building Lego Machines to Destroy Tall Lego Towers</div>
+                                <div class="title">Uncovered Euripides fragments are 'kind of a big deal'</div>
                                 <div class="date">5 Aug 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stocks trampled as Nikkei crashes 13%</div>
+                                <div class="title">A cryptographically secure bootloader for RISC-V in Rust</div>
                                 <div class="date">5 Aug 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Free e-book about WebGPU Programming</div>
-                                <div class="date">4 Aug 2024</div>
+                                <div class="title">How Postgres stores data on disk – this one's a page turner</div>
+                                <div class="date">5 Aug 2024</div>
                             </div>
                         </div>
                     </section>
