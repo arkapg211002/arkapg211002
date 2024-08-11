@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Gervais Principle, or the Office According to "The Office" (2009)</div>
+                                <div class="title">Verso – web browser built on top of the Servo web engine</div>
                                 <div class="date">11 Aug 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Rust GUI Library via Flutter</div>
+                                <div class="title">Firefox Browser Ported to HaikuOS</div>
                                 <div class="date">11 Aug 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I Created 175 Fonts Using Rust</div>
-                                <div class="date">10 Aug 2024</div>
+                                <div class="title">Things I've learned building a modern TUI Framework</div>
+                                <div class="date">11 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bevy's Game Engine Fourth Birthday</div>
+                                <div class="title">OpenDevin: An Open Platform for AI Software Developers as Generalist Agents</div>
                                 <div class="date">11 Aug 2024</div>
                             </div>
                         </div>
