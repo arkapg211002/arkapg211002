@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)</div>
-                                <div class="date">16 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">VanillaJSX.com</div>
                                 <div class="date">16 Aug 2024</div>
                             </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Texas "moth man" photographed 550 species in his own yard</div>
-                                <div class="date">16 Aug 2024</div>
+                                <div class="title">NIST Announces Post-Quantum Cryptography Standards</div>
+                                <div class="date">13 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LLM and Bug Finding: Insights from a $2M Winning Team in the White House's AIxCC</div>
+                                <div class="title">"Frost crack" sounds may come from sky, not trees</div>
+                                <div class="date">13 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Zngur: A C++/Rust interop tool</div>
                                 <div class="date">16 Aug 2024</div>
                             </div>
                         </div>
