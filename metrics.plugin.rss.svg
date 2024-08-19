@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Dying Computer Museum</div>
+                                <div class="title">The gigantic and unregulated power plants in the cloud</div>
                                 <div class="date">19 Aug 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trainwreck Design</div>
-                                <div class="date">14 Aug 2024</div>
+                                <div class="title">Classifying all of the pdfs on the internet</div>
+                                <div class="date">19 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Renderings Created with Only a Pencil</div>
-                                <div class="date">16 Aug 2024</div>
+                                <div class="title">Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)</div>
+                                <div class="date">19 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: PgQueuer – Transform PostgreSQL into a Job Queue</div>
-                                <div class="date">18 Aug 2024</div>
+                                <div class="title">Bit-banging a BASIC Birthday</div>
+                                <div class="date">19 Aug 2024</div>
                             </div>
                         </div>
                     </section>
