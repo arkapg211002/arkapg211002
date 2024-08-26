@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Removing stuff is never obvious yet often better</div>
+                                <div class="title">Dokku: My favorite personal serverless platform</div>
                                 <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Avante.nvim: Use Your Neovim Like Using Cursor AI IDE</div>
+                                <div class="title">Launch HN: Parity (YC S24) – AI for on-call engineers working with Kubernetes</div>
                                 <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Database "sharding" came from Ultima Online? (2009)</div>
-                                <div class="date">25 Aug 2024</div>
+                                <div class="title">NSA releases 1982 Grace Hopper lecture</div>
+                                <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How WW2 bombs across the Pacific are found and destroyed, decades after war</div>
-                                <div class="date">21 Aug 2024</div>
+                                <div class="title">Fixing a bug in Google Chrome as a first-time contributor</div>
+                                <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
                     </section>
