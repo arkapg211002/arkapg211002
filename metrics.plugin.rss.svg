@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What Excessive Screen Time Does to the Adult Brain</div>
+                                <div class="title">Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]</div>
                                 <div class="date">3 Oct 2024</div>
                             </div>
                         </div>
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Fastest Mutexes</div>
-                                <div class="date">2 Oct 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Terminal Colours Are Tricky</div>
+                                <div class="title">Image Editing with Gaussian Splatting</div>
                                 <div class="date">3 Oct 2024</div>
                             </div>
                         </div>
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An adult fruit fly brain has been mapped</div>
-                                <div class="date">2 Oct 2024</div>
+                                <div class="title">Dance training superior to physical exercise in inducing brain plasticity (2018)</div>
+                                <div class="date">3 Oct 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Solving methane mysteries with satellite imagery</div>
+                                <div class="date">3 Oct 2024</div>
                             </div>
                         </div>
                     </section>
