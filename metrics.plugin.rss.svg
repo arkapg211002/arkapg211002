@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Differential Transformer</div>
+                                <div class="title">On the Nature of Time</div>
                                 <div class="date">8 Oct 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Kotlin Money</div>
+                                <div class="title">Who died and left the US $7B?</div>
                                 <div class="date">8 Oct 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nobel Prize in Physics Awarded for Machine Learning and Neural Networks</div>
+                                <div class="title">My first game with Carimbo, my homemade engine</div>
                                 <div class="date">8 Oct 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">(Re)Using rustc components in gccrs</div>
-                                <div class="date">5 Oct 2024</div>
+                                <div class="title">Show HN: Winamp and other media players, rebuilt for the web with Web Components</div>
+                                <div class="date">8 Oct 2024</div>
                             </div>
                         </div>
                     </section>
