@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DeskPad – A virtual monitor for screen sharing</div>
-                                <div class="date">10 Oct 2024</div>
+                                <div class="title">Show HN: Dead man's switch without reliance on your infra</div>
+                                <div class="date">11 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Copenhagen Book: general guideline on implementing auth in web applications</div>
-                                <div class="date">10 Oct 2024</div>
+                                <div class="title">Show HN: Pocache, preemptive optimistic caching for Go</div>
+                                <div class="date">11 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scuda – Virtual GPU over IP</div>
-                                <div class="date">9 Oct 2024</div>
+                                <div class="title">A Lisp compiler to RISC-V written in Lisp</div>
+                                <div class="date">11 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AAA Gaming on Asahi Linux</div>
-                                <div class="date">10 Oct 2024</div>
+                                <div class="title">Initial CUDA Performance Lessons</div>
+                                <div class="date">11 Oct 2024</div>
                             </div>
                         </div>
                     </section>
