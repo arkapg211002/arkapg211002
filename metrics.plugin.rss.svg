@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Dead man's switch without reliance on your infra</div>
+                                <div class="title">Spotify Will Keep Remote Working – EDMTunes</div>
                                 <div class="date">11 Oct 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Pocache, preemptive optimistic caching for Go</div>
+                                <div class="title">Started a guide to writing FUSE filesystems in Python</div>
                                 <div class="date">11 Oct 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Lisp compiler to RISC-V written in Lisp</div>
+                                <div class="title">Lm.rs: Minimal CPU LLM inference in Rust with no dependency</div>
                                 <div class="date">11 Oct 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Initial CUDA Performance Lessons</div>
-                                <div class="date">11 Oct 2024</div>
+                                <div class="title">Show HN: I made a URL expander because short links are too mainstream</div>
+                                <div class="date">8 Oct 2024</div>
                             </div>
                         </div>
                     </section>
