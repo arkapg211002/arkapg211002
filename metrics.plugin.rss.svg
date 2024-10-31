@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Zed: SSH Remoting Is Here</div>
+                                <div class="date">31 Oct 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">OpenZFS deduplication is good now and you shouldn't use it</div>
                                 <div class="date">30 Oct 2024</div>
                             </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse</div>
+                                <div class="title">It might be possible to detect gravitons after all</div>
                                 <div class="date">30 Oct 2024</div>
                             </div>
                         </div>
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Wonder Animation – Video to 3D Animation</div>
-                                <div class="date">30 Oct 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">It Might Be Possible to Detect Gravitons After All</div>
-                                <div class="date">30 Oct 2024</div>
+                                <div class="title">Do hard things carefully</div>
+                                <div class="date">26 Oct 2024</div>
                             </div>
                         </div>
                     </section>
