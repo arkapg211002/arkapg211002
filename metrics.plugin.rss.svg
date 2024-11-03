@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Speed, scale and reliability: 25 years of Google datacenter networking evolution</div>
+                                <div class="title">Touchscreens are out, and tactile controls are back</div>
                                 <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The motor turns too much</div>
-                                <div class="date">28 Oct 2024</div>
+                                <div class="title">Create block devices on your computer backed by Redstone Memory</div>
+                                <div class="date">29 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Where Cruise Ships Go to Die. Meet the Man Saving Them</div>
+                                <div class="title">Unix core utilities implemented in Haskell</div>
                                 <div class="date">30 Oct 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Eighty Years of the Finite Element Method (2022)</div>
-                                <div class="date">2 Nov 2024</div>
+                                <div class="title">Speed, scale and reliability: 25 years of Google datacenter networking evolution</div>
+                                <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
                     </section>
