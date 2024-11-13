@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">U.S. Sets Targets to Triple Nuclear Energy Capacity by 2050</div>
+                                <div class="title">Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB</div>
                                 <div class="date">13 Nov 2024</div>
                             </div>
                         </div>
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We Built a Self-Healing System to Survive a Concurrency Bug at Netflix</div>
-                                <div class="date">8 Nov 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">No GPS required: our app can now locate underground trains</div>
+                                <div class="title">MIT engineers make converting CO2 into useful products more practical</div>
                                 <div class="date">13 Nov 2024</div>
                             </div>
                         </div>
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to delegate effectively as your responsibility grows</div>
-                                <div class="date">7 Nov 2024</div>
+                                <div class="title">From BSP to ESP – How S3ctor Abused Quake Editors to Redefine the Morrowind Mod</div>
+                                <div class="date">13 Nov 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Fault Injection – Down the Rabbit Hole</div>
+                                <div class="date">13 Nov 2024</div>
                             </div>
                         </div>
                     </section>
