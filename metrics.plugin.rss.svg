@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Career Ending Mistake</div>
+                                <div class="title">This website is hosted on Bluesky</div>
                                 <div class="date">24 Nov 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev</div>
+                                <div class="title">Starlink Direct to Cell</div>
                                 <div class="date">24 Nov 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Deegen: A JIT-Capable VM Generator for Dynamic Languages</div>
+                                <div class="title">The Two Factions of C++</div>
                                 <div class="date">24 Nov 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Evidence of oldest known alphabetic writing unearthed in ancient Syrian city</div>
-                                <div class="date">23 Nov 2024</div>
+                                <div class="title">SQLite: Outlandish Recursive Query Examples</div>
+                                <div class="date">24 Nov 2024</div>
                             </div>
                         </div>
                     </section>
