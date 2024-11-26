@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lies we tell ourselves to keep using Golang</div>
+                                <div class="title">A solution to The Onion problem of J. Kenji Lopez-Alt (2021)</div>
                                 <div class="date">26 Nov 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles</div>
+                                <div class="title">Henry James and H.G. Wells (1958)</div>
                                 <div class="date">26 Nov 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Model Context Protocol</div>
-                                <div class="date">25 Nov 2024</div>
+                                <div class="title">LLVM-Powered Devirtualization</div>
+                                <div class="date">26 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Revisiting the DOS Memory Models</div>
-                                <div class="date">23 Nov 2024</div>
+                                <div class="title">Show HN: SQLite Plugin for Jekyll</div>
+                                <div class="date">26 Nov 2024</div>
                             </div>
                         </div>
                     </section>
