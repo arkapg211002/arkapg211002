@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DuckDuckGo Donates $25,000 to the Perl and Raku Foundation</div>
+                                <div class="title">Egoless Engineering</div>
                                 <div class="date">3 Dec 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tweaking Stunt Island's 30-year-old 3D Engine</div>
+                                <div class="title">Intel announces Arc B-series "Battlemage" discrete graphics with Linux support</div>
                                 <div class="date">3 Dec 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lessons I learned working at an art gallery</div>
-                                <div class="date">3 Dec 2024</div>
+                                <div class="title">Glojure: Clojure interpreter hosted on Go, with extensible interop support</div>
+                                <div class="date">29 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dependency management fatigue, or why I forever ditched React for Go+Htmx+Templ</div>
+                                <div class="title">My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback</div>
                                 <div class="date">3 Dec 2024</div>
                             </div>
                         </div>
