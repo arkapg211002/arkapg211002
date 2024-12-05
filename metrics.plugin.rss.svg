@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Deploying Containers on NixOS: A Guide</div>
-                                <div class="date">4 Dec 2024</div>
+                                <div class="title">Diátaxis – A systematic approach to technical documentation authoring</div>
+                                <div class="date">5 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI hallucinations: Why LLMs make things up (and how to fix it)</div>
-                                <div class="date">4 Dec 2024</div>
+                                <div class="title">Bringing K/V context quantisation to Ollama</div>
+                                <div class="date">5 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">C64 Basic Tutorial: Using String Manipulation to Write a Text Adventure</div>
-                                <div class="date">29 Nov 2024</div>
+                                <div class="title">They don't make them like that any more: the Yamaha DX7 keyboard</div>
+                                <div class="date">4 Dec 2024</div>
                             </div>
                         </div>
                     </section>
