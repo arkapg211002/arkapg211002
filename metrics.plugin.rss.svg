@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">When a Crystal Ball Isn't Enough to Make You Rich – Elm Partners</div>
+                                <div class="title">A visual proof that a^2 – b^2 = (a + b)(a – b)</div>
                                 <div class="date">15 Dec 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tenstorrent and the State of AI Hardware Startups</div>
+                                <div class="title">In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape</div>
                                 <div class="date">15 Dec 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">IRATA.ONLINE: A Community for Retro-Computing Enthusiasts</div>
-                                <div class="date">14 Dec 2024</div>
+                                <div class="title">Show HN: I built an embeddable Unicode library with MISRA C conformance</div>
+                                <div class="date">15 Dec 2024</div>
                             </div>
                         </div>
                     </section>
