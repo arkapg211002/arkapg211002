@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Running NetBSD on IBM ThinkPad 380Z</div>
+                                <div class="title">Getting to Two Million Users as a One Woman Dev Team</div>
                                 <div class="date">17 Dec 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New LLM optimization technique slashes memory costs</div>
-                                <div class="date">13 Dec 2024</div>
+                                <div class="title">Crunch – a Scheme compiler with a minimal runtime</div>
+                                <div class="date">17 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Xiaomi Home Integration for Home Assistant</div>
-                                <div class="date">16 Dec 2024</div>
+                                <div class="title">How I used linear algebra to build an interactive diagramming editor</div>
+                                <div class="date">17 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Multilspy: Building a common LSP client handtuned for all Language servers</div>
+                                <div class="title">Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps</div>
                                 <div class="date">17 Dec 2024</div>
                             </div>
                         </div>
