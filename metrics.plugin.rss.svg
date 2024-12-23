@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Twtxt is a decentralised, minimalist microblogging service for hackers</div>
-                                <div class="date">22 Dec 2024</div>
+                                <div class="title">Fogus: Things and Stuff of 2024</div>
+                                <div class="date">23 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Infinigen: Infinite Photorealistic Worlds Using Procedural Generation</div>
-                                <div class="date">22 Dec 2024</div>
+                                <div class="title">Xerox to acquire Lexmark</div>
+                                <div class="date">23 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critics, not fans, perpetuate the failed second album myth, study shows</div>
-                                <div class="date">19 Dec 2024</div>
+                                <div class="title">Show HN: Keypub.sh – OAuth for the terminal using SSH keys</div>
+                                <div class="date">23 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Collatz's Ant</div>
-                                <div class="date">21 Dec 2024</div>
+                                <div class="title">The intricacies of implementing memoization in Ruby</div>
+                                <div class="date">23 Dec 2024</div>
                             </div>
                         </div>
                     </section>
