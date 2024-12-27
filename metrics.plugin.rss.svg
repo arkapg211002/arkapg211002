@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Blackcandy: Self hosted music streaming server</div>
+                                <div class="title">Ghostty 1.0</div>
                                 <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cognitive load is what matters</div>
-                                <div class="date">22 Dec 2024</div>
+                                <div class="title">The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Unorm and SNORM to float, hardware edition</div>
-                                <div class="date">24 Dec 2024</div>
+                                <div class="title">Sub-pixel distance transform (2023)</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Differential Growth Addon for Blender</div>
+                                <div class="title">Write Your Own Virtual Machine (2022)</div>
                                 <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
