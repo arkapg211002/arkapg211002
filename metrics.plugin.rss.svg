@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Machine-Assisted Proof by Terence Tao [pdf]</div>
+                                <div class="title">EmacsConf 2024 Notes</div>
                                 <div class="date">28 Dec 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ada's dependent types, and its types as a whole</div>
+                                <div class="title">Where can you go in Europe by train in 8h?</div>
                                 <div class="date">28 Dec 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">That's not an abstraction, that's a layer of indirection</div>
-                                <div class="date">25 Dec 2024</div>
+                                <div class="title">So You Want to Write Java in Neovim</div>
+                                <div class="date">28 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Should more of us be moving to live near friends?</div>
+                                <div class="title">Numbers Are Leaves</div>
                                 <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
