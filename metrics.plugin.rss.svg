@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to monitor your local weather with Grafana</div>
+                                <div class="title">Arnis: Generate cities in Minecraft from OpenStreetMap</div>
                                 <div class="date">31 Dec 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Debugging memory corruption: who the hell writes "2" into my stack? (2016)</div>
-                                <div class="date">28 Dec 2024</div>
+                                <div class="title">Static search trees: 40x faster than binary search</div>
+                                <div class="date">1 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I keep turning my Google Sheets into phone-friendly webapps</div>
-                                <div class="date">30 Dec 2024</div>
+                                <div class="title">Building Game Prototypes with LÖVE</div>
+                                <div class="date">31 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Darktable 5.0.0</div>
+                                <div class="title">The GTA III port for the Dreamcast has been released</div>
                                 <div class="date">31 Dec 2024</div>
                             </div>
                         </div>
