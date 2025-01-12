@@ -23,21 +23,6 @@
   <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/programmer.gif" align="center" style="width: 90%" />
   
   </div>
-<div align="left">
-  
- <!-- - 💖<b> I like coding and exploring new things  </b>
-  
-  - ⚡ <b>Fun fact: I use tabs over spaces</b>
-  
-  - 📫 <b>How to reach me **arkapratimghosh2002@gmail.com**</b> -->
-  
-<div>
-</td>
-  <td align="center" width="33%">
-  <div align="center">
-<img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" align="center" style="width: 100%" />
-</div>  
-</td>
 </tr>
 
 <tr>
