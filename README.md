@@ -228,7 +228,7 @@
 <table align="center"><tr><td valign="center" width="30%">
 <div align="center"><img src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif" align="center" style="width: 100%" /></div>  </td>
 <td valign="center" width="50%">
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkapg211002&theme=dark" alt="arkapg211002" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-crmw.vercel.app?user=arkapg211002&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </td></table>
   
 <table align="center"><tr><td valign="center" width="50%">
