@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Snyk security researcher deploys malicious NPM packages targeting cursor.com</div>
-                                <div class="date">13 Jan 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">ZFS 2.3.0 released with ZFS raidz expansion</div>
+                                <div class="title">Making an Intersection Unsafe for Pedestrians to Save Seconds for Drivers</div>
                                 <div class="date">14 Jan 2025</div>
                             </div>
                         </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Plunge (2014)</div>
-                                <div class="date">10 Jan 2025</div>
+                                <div class="title">LLM based agents as Dungeon Masters</div>
+                                <div class="date">14 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs</div>
-                                <div class="date">13 Jan 2025</div>
+                                <div class="title">In the Belly of the MrBeast</div>
+                                <div class="date">14 Jan 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">1 in 5 Online Job Postings Are Either Fake or Never Filled</div>
+                                <div class="date">14 Jan 2025</div>
                             </div>
                         </div>
                     </section>
