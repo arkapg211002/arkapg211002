@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I Made an Open-Source Laptop from Scratch</div>
+                                <div class="title">Show HN: I made an open-source laptop from scratch</div>
                                 <div class="date">22 Jan 2025</div>
                             </div>
                         </div>
@@ -29,17 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to improve your WFH lighting to reduce eye strain</div>
-                                <div class="date">22 Jan 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">NIH hit with freezes on meetings, travel, communications, and hiring</div>
-                                <div class="date">23 Jan 2025</div>
+                                <div class="title">Minecraft with object impermanence</div>
+                                <div class="date">19 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -48,6 +39,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Mastercard DNS error went unnoticed for years</div>
+                                <div class="date">22 Jan 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">F-Droid's Progress and What's Coming in 2025</div>
                                 <div class="date">22 Jan 2025</div>
                             </div>
                         </div>
