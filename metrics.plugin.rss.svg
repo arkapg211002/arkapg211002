@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A QR code that sends you to a different destination - lenticular and adversarial</div>
+                                <div class="title">A QR code that sends you to a different destination – lenticular and adversarial</div>
                                 <div class="date">23 Jan 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel</div>
-                                <div class="date">23 Jan 2025</div>
+                                <div class="title">The State of Vim</div>
+                                <div class="date">24 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Llama.vim – Local LLM-assisted text completion</div>
-                                <div class="date">23 Jan 2025</div>
+                                <div class="title">UI is hell: four-function calculators</div>
+                                <div class="date">24 Jan 2025</div>
                             </div>
                         </div>
                     </section>
