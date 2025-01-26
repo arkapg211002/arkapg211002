@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">YC Graveyard: 821 inactive Y Combinator startups</div>
+                                <div class="title">It's not a crime if we do it with an app</div>
                                 <div class="date">26 Jan 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Emerging Reasoning with Reinforcement Learning</div>
-                                <div class="date">26 Jan 2025</div>
+                                <div class="title">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL</div>
+                                <div class="date">25 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL</div>
-                                <div class="date">25 Jan 2025</div>
+                                <div class="title">Paxo: A DIY Phone</div>
+                                <div class="date">26 Jan 2025</div>
                             </div>
                         </div>
                     </section>
