@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We're bringing Pebble back</div>
-                                <div class="date">27 Jan 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Machine Learning in Production (CMU Course)</div>
+                                <div class="title">DeepSeek: X2 Speed for WASM with SIMD</div>
                                 <div class="date">28 Jan 2025</div>
                             </div>
                         </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Open-R1: an open reproduction of DeepSeek-R1</div>
+                                <div class="title">Maxima in the browser using Embedded Common Lisp on WASM</div>
                                 <div class="date">28 Jan 2025</div>
                             </div>
                         </div>
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Turning the Database Inside-Out</div>
-                                <div class="date">26 Jan 2025</div>
+                                <div class="title">IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star</div>
+                                <div class="date">28 Jan 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Bitwarden introduces mandatory 2FA for new devices</div>
+                                <div class="date">28 Jan 2025</div>
                             </div>
                         </div>
                     </section>
