@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit</div>
+                                <div class="title">Don't "optimize" conditional moves in shaders with mix()+step()</div>
                                 <div class="date">9 Feb 2025</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The LLM Curve of Impact on Software Engineers</div>
-                                <div class="date">7 Feb 2025</div>
+                                <div class="title">Baffled by generational garbage collection – wingolog</div>
+                                <div class="date">9 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Go Data Structures: Interfaces</div>
-                                <div class="date">5 Feb 2025</div>
+                                <div class="title">Show HN: My first side project, streamlined book clubs on Slack</div>
+                                <div class="date">9 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Modern-Day Oracles or Bullshit Machines</div>
+                                <div class="title">Classic Data science pipelines built with LLMs</div>
                                 <div class="date">9 Feb 2025</div>
                             </div>
                         </div>
