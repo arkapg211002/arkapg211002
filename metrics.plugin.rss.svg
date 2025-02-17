@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Uchū · the color scheme for internet lovers</div>
+                                <div class="date">16 Feb 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">“A calculator app? Anyone could make that”</div>
                                 <div class="date">16 Feb 2025</div>
                             </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Flea-Scope: $18, ~FOSS USB Oscilloscope, Logic Analyzer and More [pdf]</div>
+                                <div class="title">Opposing arrows of time can theoretically emerge from certain quantum systems</div>
                                 <div class="date">16 Feb 2025</div>
                             </div>
                         </div>
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vim after Bram: a core maintainer on how they've kept it going</div>
+                                <div class="title">Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]</div>
                                 <div class="date">16 Feb 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">OpenVINO AI effects [denoising and transcription] for Audacity</div>
-                                <div class="date">14 Feb 2025</div>
                             </div>
                         </div>
                     </section>
