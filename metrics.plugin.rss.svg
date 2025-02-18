@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Grok3 Launch [video]</div>
+                                <div class="title">Show HN: Scripton – Python IDE with Built-In Realtime Visualizations</div>
                                 <div class="date">18 Feb 2025</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Joy of Nand2Tetris</div>
-                                <div class="date">15 Feb 2025</div>
+                                <div class="title">Tariffs result in 10% laptop price hike in U.S. says Acer CEO</div>
+                                <div class="date">18 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,17 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Plane crashes, overturns during landing at Toronto airport</div>
+                                <div class="title">Show HN: Live-updating version of the 'What a week, huh?' meme</div>
+                                <div class="date">18 Feb 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Why I'm writing a Scheme implementation in 2025: Async Rust</div>
                                 <div class="date">17 Feb 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">I helped fix sleep-wake hangs on Linux with AMD GPUs</div>
-                                <div class="date">16 Feb 2025</div>
                             </div>
                         </div>
                     </section>
