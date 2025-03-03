@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GPT-4.5: "Not a frontier model"?</div>
+                                <div class="title">Firefly ‘Blue Ghost’ lunar lander touches down on the moon</div>
                                 <div class="date">2 Mar 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Raspberry Pi Pico audio player</div>
+                                <div class="title">Solarpunk</div>
                                 <div class="date">2 Mar 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I built a modern Goodreads alternative</div>
+                                <div class="title">Gooey rubber that's slowly ruining old hard drives</div>
                                 <div class="date">2 Mar 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I struggled with Git, so I'm making a game to spare others the pain</div>
-                                <div class="date">2 Mar 2025</div>
+                                <div class="title">Smallpond – A lightweight data processing framework built on DuckDB and 3FS</div>
+                                <div class="date">28 Feb 2025</div>
                             </div>
                         </div>
                     </section>
