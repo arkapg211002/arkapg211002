@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Youth and what happens when it's gone</div>
+                                <div class="title">Repairable Flatpack Toaster</div>
                                 <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Internals of PostgreSQL</div>
+                                <div class="title">Comparing Fuchsia components and Linux containers [video]</div>
                                 <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Knowledge graph of restaurants and chefs, built using LLMs</div>
-                                <div class="date">3 Mar 2025</div>
+                                <div class="title">Lawrence of Arabia, Paul Atreides, and the Roots of Frank Herbert's Dune (2021)</div>
+                                <div class="date">4 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An Attempt to Catch Up with JIT Compilers</div>
+                                <div class="title">Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit</div>
                                 <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
