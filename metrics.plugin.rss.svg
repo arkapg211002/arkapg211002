@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gemma 3 Technical Report [pdf]</div>
+                                <div class="title">The DuckDB Local UI</div>
                                 <div class="date">12 Mar 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gemma3 – The current strongest model that fits on a single GPU</div>
+                                <div class="title">Gemini Robotics brings AI into the physical world</div>
                                 <div class="date">12 Mar 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I use Cursor daily - here's how I avoid the garbage parts</div>
+                                <div class="title">Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust</div>
                                 <div class="date">12 Mar 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Happy 20th Birthday, Y Combinator</div>
-                                <div class="date">11 Mar 2025</div>
+                                <div class="title">Reverse Engineering OpenAI Code Execution to make it run C and JavaScript</div>
+                                <div class="date">12 Mar 2025</div>
                             </div>
                         </div>
                     </section>
