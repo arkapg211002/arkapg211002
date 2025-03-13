@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Cursor told me I should learn coding instead of asking it to generate it</div>
+                                <div class="date">13 Mar 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Mark Klein, AT&amp;T whistleblower who revealed NSA mass spying, has died</div>
                                 <div class="date">12 Mar 2025</div>
                             </div>
@@ -29,17 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Time Portal – Get dropped into history, guess where you landed</div>
-                                <div class="date">12 Mar 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Practical UX for startups surviving without a designer</div>
-                                <div class="date">12 Mar 2025</div>
+                                <div class="title">My teen years: The transputer operating system</div>
+                                <div class="date">13 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
