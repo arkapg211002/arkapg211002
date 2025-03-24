@@ -136,21 +136,6 @@
   
   </br>
 
-<!--cONNECT WITH ME-->
- <div align="center">
-<img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/text%20(2).gif" align="center" style="width: 100%" />
-</div>
-
-  <p align="center">
-
-  <table align="center"><tr>
-<td><div align="center">
-
-<a href="https://www.linkedin.com/in/arkapratim-ghosh21102002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkapratim ghosh✌️😀" height="40" width="40" /></a>
-
-<a href="https://www.facebook.com/profile.php?id=100073622645041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkapratim ghosh" height="40" width="40" /></a>
-
-<a href="https://www.instagram.com/apghosh2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkapratimghosh2002" height="40" width="40" /></a>
 
 <!--
 <a href="https://leetcode.com/21Arka2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arka2002" height="40" width="40" /></a>
