@@ -430,11 +430,7 @@ SPOTIFY PLAYLIST
 <img src="https://github.com/arkapg211002/arkapg/blob/master/16555454091467120879%20(1).gif" align="center" style="width: 100%"/>
 </div>
 
-</br>
-<!--PROFILE VIEWS-->  
-<div align="left">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" align="left" style="width: 30%"/>
-</div>
+
 
 <!--
 <div align="right">
