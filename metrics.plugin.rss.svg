@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Netflix's Media Production Suite</div>
+                                <div class="title">Show HN: Nue – Apps lighter than a React button</div>
                                 <div class="date">1 Apr 2025</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Go Optimization Guide</div>
-                                <div class="date">31 Mar 2025</div>
+                                <div class="title">Show HN: Duolingo-style exercises but with real-world content like the news</div>
+                                <div class="date">1 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A deliberate practice app for guitar players who want to level up</div>
-                                <div class="date">29 Mar 2025</div>
+                                <div class="title">The case against conversational interfaces</div>
+                                <div class="date">1 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">JEP draft: Prepare to make final mean final</div>
-                                <div class="date">31 Mar 2025</div>
+                                <div class="title">Netflix's Media Production Suite</div>
+                                <div class="date">1 Apr 2025</div>
                             </div>
                         </div>
                     </section>
