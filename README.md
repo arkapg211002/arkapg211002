@@ -23,6 +23,12 @@
   <img src="https://github.com/arkapg211002/arkapg/blob/master/text_gif/programmer.gif" align="center" style="width: 90%" />
   
   </div>
+</td>
+<td align="center">
+  <div align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWY0Mmp4d3FvYXRnM2J5MmY1a2hqaWZkYnJndzEyb3pjbDQ4eHNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qrrHSsrK9xpknGVNF/giphy.gif" align="center" style="width: 100%" />
+  </div> 
+</td>
 </tr>
 
 <tr>
