@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Maps Doesn't Know How Street Addresses Work</div>
+                                <div class="title">Some __nonstring__ Turbulence</div>
                                 <div class="date">25 Apr 2025</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenAI releases image generation in the API</div>
-                                <div class="date">24 Apr 2025</div>
+                                <div class="title">What If We Could Rebuild Kafka from Scratch?</div>
+                                <div class="date">25 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals</div>
-                                <div class="date">24 Apr 2025</div>
+                                <div class="title">Notation as a Tool of Thought (1979)</div>
+                                <div class="date">25 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">National Airspace System Status</div>
-                                <div class="date">24 Apr 2025</div>
+                                <div class="title">DeepMind releases Lyria 2 music generation model</div>
+                                <div class="date">25 Apr 2025</div>
                             </div>
                         </div>
                     </section>
