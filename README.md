@@ -249,7 +249,7 @@
 <!--3d contrbution-->
 <div align="center">
 <!-- https://github.com/arkapg211002/arkapg/blob/main/profile-3d-contrib/profile-season-animate.svg -->
-<img src="https://raw.githubusercontent.com/arkapg211002/arkapg/2e83504a85d1846837dfbf52221b27d89b2205b2/profile-3d-contrib/profile-south-season-animate.svg" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg/blob/main/profile-3d-contrib/profile-south-season-animate.svg" align="center" style="width: 100%" />
 </div>  
 <br/>
 
