@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gemini Diffusion</div>
+                                <div class="title">That fractal that's been up on my wall for 12 years</div>
                                 <div class="date">22 May 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Decibels Are Ridiculous</div>
+                                <div class="title">Improving performance of rav1d video decoder</div>
                                 <div class="date">22 May 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why does Debian change software?</div>
+                                <div class="title">Fast Allocations in Ruby 3.5</div>
                                 <div class="date">22 May 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene</div>
-                                <div class="date">18 May 2025</div>
+                                <div class="title">Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts</div>
+                                <div class="date">22 May 2025</div>
                             </div>
                         </div>
                     </section>
