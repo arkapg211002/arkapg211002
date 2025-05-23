@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">John Carmack talk at Upper Bound 2025 – slides and notes</div>
+                                <div class="title">PostgreSQL IDE in VS Code</div>
                                 <div class="date">23 May 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">KumoRFM: A Foundation Model for In-Context Learning on Relational Data</div>
+                                <div class="title">Caesar's Last Breath</div>
                                 <div class="date">23 May 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tallest Wooden Wind Turbine</div>
-                                <div class="date">19 May 2025</div>
+                                <div class="title">Find Your People</div>
+                                <div class="date">23 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Defuddle, an HTML-to-Markdown alternative to Readability</div>
-                                <div class="date">22 May 2025</div>
+                                <div class="title">Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens</div>
+                                <div class="date">23 May 2025</div>
                             </div>
                         </div>
                     </section>
