@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Implementing Logic Programming</div>
+                                <div class="title">Peano arithmetic is enough, because Peano arithmetic  encodes computation</div>
                                 <div class="date">13 Jun 2025</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Emperor's New LLM</div>
-                                <div class="date">13 Jun 2025</div>
+                                <div class="title">SIMD-friendly algorithms for substring searching</div>
+                                <div class="date">14 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Self-Adapting Language Models</div>
-                                <div class="date">13 Jun 2025</div>
+                                <div class="title">TimeGuessr</div>
+                                <div class="date">10 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">If the moon were only 1 pixel: A tediously accurate solar system model (2014)</div>
-                                <div class="date">13 Jun 2025</div>
+                                <div class="title">Filedb: Disk-based key-value store inspired by Bitcask</div>
+                                <div class="date">14 Jun 2025</div>
                             </div>
                         </div>
                     </section>
