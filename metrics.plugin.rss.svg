@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git Notes: Git's coolest, most unloved­ feature (2022)</div>
+                                <div class="title">I wrote my PhD Thesis in Typst</div>
                                 <div class="date">22 Jun 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LibRedirect – Redirects popular sites to alternative privacy-friendly frontends</div>
+                                <div class="title">Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot</div>
                                 <div class="date">22 Jun 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TPU Deep Dive</div>
-                                <div class="date">22 Jun 2025</div>
+                                <div class="title">Cross-Account and Cross-Region Backups with AWS Backup (and Friends)</div>
+                                <div class="date">20 Jun 2025</div>
                             </div>
                         </div>
                     </section>
