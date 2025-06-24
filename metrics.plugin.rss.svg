@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Solving LinkedIn Queens Using Haskell</div>
+                                <div class="title">Writing toy software is a joy</div>
                                 <div class="date">24 Jun 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Can your terminal do emojis? How big?</div>
+                                <div class="title">Finding a 27-year-old easter egg in the Power Mac G3 ROM</div>
                                 <div class="date">24 Jun 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vera C. Rubin Observatory first images</div>
-                                <div class="date">23 Jun 2025</div>
+                                <div class="title">PlasticList – Plastic Levels in Foods</div>
+                                <div class="date">24 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Backyard Coffee and Jazz in Kyoto</div>
-                                <div class="date">23 Jun 2025</div>
+                                <div class="title">Starship: The minimal, fast, and customizable prompt for any shell</div>
+                                <div class="date">24 Jun 2025</div>
                             </div>
                         </div>
                     </section>
