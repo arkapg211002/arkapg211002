@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights</div>
-                                <div class="date">27 Jun 2025</div>
+                                <div class="title">MCP: An (Accidentally) Universal Plugin System</div>
+                                <div class="date">28 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DeepSeek R2 launch stalled as CEO balks at progress</div>
-                                <div class="date">27 Jun 2025</div>
+                                <div class="title">We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler</div>
+                                <div class="date">28 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,17 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">London's Largest Ancient Roman Fresco Is “Most Difficult Jigsaw Puzzle”</div>
+                                <div class="title">Unheard works by Erik Satie to premiere 100 years after his death</div>
+                                <div class="date">28 Jun 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Microsoft extends free Windows 10 security updates into 2026</div>
                                 <div class="date">24 Jun 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">AlphaGenome: AI for Better Understanding the Genome</div>
-                                <div class="date">25 Jun 2025</div>
                             </div>
                         </div>
                     </section>
