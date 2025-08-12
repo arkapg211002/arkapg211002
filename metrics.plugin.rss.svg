@@ -20,8 +20,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Wikimedia Foundation Challenges UK Online Safety Act Regulations</div>
+                                <div class="title">Wikipedia loses challenge against Online Safety Act</div>
                                 <div class="date">11 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">GLM-4.5: Agentic, Reasoning, and Coding (Arc) Foundation Models [pdf]</div>
+                                <div class="date">12 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,16 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GitHub is no longer independent at Microsoft after CEO resignation</div>
-                                <div class="date">11 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">OpenSSH Post-Quantum Cryptography</div>
+                                <div class="title">Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python</div>
                                 <div class="date">11 Aug 2025</div>
                             </div>
                         </div>
