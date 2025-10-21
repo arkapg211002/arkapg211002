@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Intel and AMD standardise ChkTag to bring Memory Safety to x86</div>
-                                <div class="date">14 Oct 2025</div>
+                                <div class="title">Language Support for Marginalia Search</div>
+                                <div class="date">21 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building a message queue with only two UNIX signals</div>
-                                <div class="date">20 Oct 2025</div>
+                                <div class="title">Show HN: I'm rewriting a web server written in Rust for speed and ease of use</div>
+                                <div class="date">21 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude Code on the web</div>
-                                <div class="date">20 Oct 2025</div>
+                                <div class="title">Practical Scheme</div>
+                                <div class="date">21 Oct 2025</div>
                             </div>
                         </div>
                     </section>
