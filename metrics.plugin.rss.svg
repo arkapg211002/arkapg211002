@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Backpropagation is a leaky abstraction</div>
+                                <div class="title">"Why don't you use dependent types?"</div>
                                 <div class="date">2 Nov 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Notes by djb on using Fil-C (2025)</div>
+                                <div class="title">Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch</div>
                                 <div class="date">2 Nov 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Visopsys: OS maintained by a single developer since 1997</div>
-                                <div class="date">1 Nov 2025</div>
+                                <div class="title">Autodesk's John Walker Explained HP and IBM in 1991</div>
+                                <div class="date">29 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I use every Claude Code feature</div>
+                                <div class="title">URLs are state containers</div>
                                 <div class="date">2 Nov 2025</div>
                             </div>
                         </div>
