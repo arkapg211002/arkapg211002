@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Universal Weight Subspace Hypothesis</div>
+                                <div class="title">The universal weight subspace hypothesis</div>
                                 <div class="date">9 Dec 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jepsen: NATS 2.12.1</div>
-                                <div class="date">8 Dec 2025</div>
+                                <div class="title">Manual: Spaces</div>
+                                <div class="date">9 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Horses: AI progress is steady. Human equivalence is sudden</div>
-                                <div class="date">9 Dec 2025</div>
+                                <div class="title">Kroger acknowledges that its bet on robotics went too far</div>
+                                <div class="date">8 Dec 2025</div>
                             </div>
                         </div>
                     </section>
