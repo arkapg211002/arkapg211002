@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">C++ std::move doesn't move anything: A deep dive into Value Categories</div>
-                                <div class="date">9 Jan 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Concise TypeScript Book</div>
+                                <div class="title">Gentoo Linux 2025 Review</div>
                                 <div class="date">11 Jan 2026</div>
                             </div>
                         </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users</div>
-                                <div class="date">7 Jan 2026</div>
+                                <div class="title">Happy 50th Birthday KIM-1</div>
+                                <div class="date">11 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">More than one hundred years of Film Sizes</div>
+                                <div class="title">"Food JPEGs" in Super Smash Bros. &amp; Kirby Air Riders</div>
+                                <div class="date">6 Jan 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">I dumped Windows 11 for Linux, and you should too</div>
                                 <div class="date">11 Jan 2026</div>
                             </div>
                         </div>
