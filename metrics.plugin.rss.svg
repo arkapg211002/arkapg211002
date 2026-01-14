@@ -20,35 +20,35 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">There's a ridiculous amount of tech in a disposable vape</div>
+                                <div class="date">12 Jan 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">1000 Blank White Cards</div>
+                                <div class="date">14 Jan 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">ASCII Clouds</div>
+                                <div class="date">14 Jan 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">A 40-line fix eliminated a 400x performance gap</div>
                                 <div class="date">13 Jan 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Every GitHub object has two IDs</div>
-                                <div class="date">13 Jan 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep</div>
-                                <div class="date">13 Jan 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The $LANG Programming Language</div>
-                                <div class="date">14 Jan 2026</div>
                             </div>
                         </div>
                     </section>
