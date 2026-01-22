@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Internet voting is insecure and should not be used in public elections</div>
-                                <div class="date">22 Jan 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Take potentially dangerous PDFs, and convert them to safe PDFs</div>
+                                <div class="title">Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete</div>
                                 <div class="date">21 Jan 2026</div>
                             </div>
                         </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Significant US Farm Losses Persist, Despite Federal Assistance</div>
+                                <div class="title">Doctors in Brazil using tilapia fish skin to treat burn victims</div>
                                 <div class="date">22 Jan 2026</div>
                             </div>
                         </div>
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Binary Fuse Filters: Fast and Smaller Than XOR Filters</div>
-                                <div class="date">17 Jan 2026</div>
+                                <div class="title">In Praise of APL (1977)</div>
+                                <div class="date">22 Jan 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">From stealth blackout to whitelisting: Inside the Iranian shutdown</div>
+                                <div class="date">22 Jan 2026</div>
                             </div>
                         </div>
                     </section>
