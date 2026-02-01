@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Book of PF, 4th edition</div>
+                                <div class="title">Adventure Game Studio: OSS software for creating adventure games</div>
                                 <div class="date">1 Feb 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sometimes Your Job Is to Stay the Hell Out of the Way</div>
-                                <div class="date">27 Jan 2026</div>
+                                <div class="title">Netbird – Open Source Zero Trust Networking</div>
+                                <div class="date">1 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mobile carriers can get your GPS location</div>
-                                <div class="date">31 Jan 2026</div>
+                                <div class="title">What I learned building an opinionated and minimal coding agent</div>
+                                <div class="date">1 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The history of C# and TypeScript with Anders Hejlsberg | GitHub</div>
-                                <div class="date">27 Jan 2026</div>
+                                <div class="title">MicroPythonOS graphical operating system delivers Android-like user experience</div>
+                                <div class="date">29 Jan 2026</div>
                             </div>
                         </div>
                     </section>
