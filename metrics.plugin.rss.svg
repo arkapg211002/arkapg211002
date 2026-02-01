@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenClaw Security Assessment by ZeroLeaks [pdf]</div>
+                                <div class="title">The Book of PF, 4th edition</div>
                                 <div class="date">1 Feb 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Swift is a more convenient Rust</div>
-                                <div class="date">31 Jan 2026</div>
+                                <div class="title">Sometimes Your Job Is to Stay the Hell Out of the Way</div>
+                                <div class="date">27 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scientist who helped eradicate smallpox dies at age 89</div>
-                                <div class="date">28 Jan 2026</div>
+                                <div class="title">The history of C# and TypeScript with Anders Hejlsberg | GitHub</div>
+                                <div class="date">27 Jan 2026</div>
                             </div>
                         </div>
                     </section>
