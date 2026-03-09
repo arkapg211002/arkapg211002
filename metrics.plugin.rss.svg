@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]</div>
+                                <div class="title">Building a Procedural Hex Map with Wave Function Collapse</div>
                                 <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Grammarly is offering ‘expert’ AI reviews from famous dead and living writers</div>
-                                <div class="date">5 Mar 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP</div>
+                                <div class="title">Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram</div>
                                 <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Agent Safehouse – macOS-native sandboxing for local agents</div>
-                                <div class="date">8 Mar 2026</div>
+                                <div class="title">Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents</div>
+                                <div class="date">9 Mar 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Fixfest is a global gathering of repairers, tinkerers, and activists</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                     </section>
