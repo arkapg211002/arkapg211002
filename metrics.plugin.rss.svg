@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We rewrote our Rust WASM parser in TypeScript and it got faster</div>
-                                <div class="date">20 Mar 2026</div>
+                                <div class="title">Mamba-3</div>
+                                <div class="date">17 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ghostling</div>
-                                <div class="date">20 Mar 2026</div>
+                                <div class="title">FFmpeg 101 (2024)</div>
+                                <div class="date">21 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">France's aircraft carrier located in real time by Le Monde through fitness app</div>
+                                <div class="title">Molly Guard</div>
                                 <div class="date">20 Mar 2026</div>
                             </div>
                         </div>
