@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude Opus 4.7 costs 20–30% more per session</div>
+                                <div class="title">A simplified model of Fil-C</div>
                                 <div class="date">17 Apr 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Isaac Asimov: The Last Question (1956)</div>
+                                <div class="title">All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)</div>
                                 <div class="date">17 Apr 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Middle schooler finds coin from Troy in Berlin</div>
-                                <div class="date">17 Apr 2026</div>
+                                <div class="title">Towards Trust in Emacs</div>
+                                <div class="date">15 Apr 2026</div>
                             </div>
                         </div>
                     </section>
