@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">John Ternus to become Apple CEO</div>
-                                <div class="date">20 Apr 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Anthropic says OpenClaw-style Claude CLI usage is allowed again</div>
+                                <div class="title">Laws of Software Engineering</div>
                                 <div class="date">21 Apr 2026</div>
                             </div>
                         </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Louis Zocchi, inventor of the d100, has died</div>
+                                <div class="title">Show HN: GoModel – an open-source AI gateway in Go</div>
                                 <div class="date">21 Apr 2026</div>
                             </div>
                         </div>
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MNT Reform is an open hardware laptop, designed and assembled in Germany</div>
-                                <div class="date">20 Apr 2026</div>
+                                <div class="title">Fusion Power Plant Simulator</div>
+                                <div class="date">21 Apr 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: VidStudio, a browser based video editor that doesn't upload your files</div>
+                                <div class="date">21 Apr 2026</div>
                             </div>
                         </div>
                     </section>
