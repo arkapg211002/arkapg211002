@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The $500K AI Film That "Premiered at Cannes" Was Not in the Official Festival</div>
+                                <div class="title">SQLite is all you need for durable workflows</div>
                                 <div class="date">29 May 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude Opus 4.8</div>
-                                <div class="date">28 May 2026</div>
+                                <div class="title">Notes from the Mistral AI Now Summit in Paris</div>
+                                <div class="date">29 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bricks and Minifigs Stole a Man's $200k Lego Collection</div>
-                                <div class="date">28 May 2026</div>
+                                <div class="title">The dead economy theory</div>
+                                <div class="date">29 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Real-time LLM Inference on Standard GPUs: 3k tokens/s per request</div>
+                                <div class="title">Bijou64: A variable-length integer encoding</div>
                                 <div class="date">29 May 2026</div>
                             </div>
                         </div>
