@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GrapheneOS user reported to authorities for using GrapheneOS</div>
+                                <div class="title">Zeroserve: A zero-config web server you can script with eBPF</div>
                                 <div class="date">6 Jun 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zig Zen Update</div>
+                                <div class="title">Moving beyond fork() + exec()</div>
                                 <div class="date">6 Jun 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How LLMs work</div>
-                                <div class="date">3 Jun 2026</div>
+                                <div class="title">Benchmarks in Leipzig</div>
+                                <div class="date">6 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The intracies of modern camera lens repair (2024)</div>
+                                <div class="title">Nvidia is proposing a beast of a CPU system for Windows PCs</div>
                                 <div class="date">6 Jun 2026</div>
                             </div>
                         </div>
