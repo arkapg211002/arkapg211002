@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Steam Machine</div>
+                                <div class="title">Steam Machine launches today</div>
                                 <div class="date">22 Jun 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My Mathematical Regression</div>
-                                <div class="date">19 Jun 2026</div>
+                                <div class="title">VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO</div>
+                                <div class="date">23 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Moebius: 0.2B image inpainting model with 10B-level performance</div>
+                                <div class="title">GLM-5.2 – How to Run Locally</div>
                                 <div class="date">22 Jun 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Deno Desktop</div>
-                                <div class="date">22 Jun 2026</div>
+                                <div class="title">In praise of memcached</div>
+                                <div class="date">23 Jun 2026</div>
                             </div>
                         </div>
                     </section>
