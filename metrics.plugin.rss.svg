@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sandia National Labs SA3000 8085 CPU</div>
+                                <div class="title">Qwen 3.6 27B is the sweet spot for local development</div>
                                 <div class="date">29 Jun 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88</div>
+                                <div class="title">Rocketlab acquires Iridium</div>
                                 <div class="date">29 Jun 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GLM 5.2 beats Claude in our benchmarks</div>
-                                <div class="date">28 Jun 2026</div>
+                                <div class="title">A native graphical shell for SSH</div>
+                                <div class="date">29 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped</div>
+                                <div class="title">WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter</div>
                                 <div class="date">29 Jun 2026</div>
                             </div>
                         </div>
