@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Shadcn/UI now defaults to Base UI instead of Radix</div>
+                                <div class="title">Organic Maps</div>
                                 <div class="date">5 Jul 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">If you're a button, you have one job</div>
+                                <div class="title">The Computers Used in Movies</div>
                                 <div class="date">5 Jul 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable</div>
-                                <div class="date">4 Jul 2026</div>
+                                <div class="title">"These cameras are just like the Eye of Sauron"</div>
+                                <div class="date">5 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Web-based cryptography is always snake oil</div>
+                                <div class="title">Introduction to Compilers and Language Design</div>
                                 <div class="date">5 Jul 2026</div>
                             </div>
                         </div>
