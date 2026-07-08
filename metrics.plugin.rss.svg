@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Is The Economist Always Wrong?</div>
+                                <div class="title">Decoding the obfuscated bash script on a Uniqlo t-shirt</div>
                                 <div class="date">8 Jul 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup</div>
-                                <div class="date">7 Jul 2026</div>
+                                <div class="title">GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos</div>
+                                <div class="date">8 Jul 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)</div>
+                                <div class="date">8 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">Tenda firmware (multiple versions) contains hidden authentication backdoor</div>
                                 <div class="date">8 Jul 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Canada's only watchmaking school still ticking after 80 years</div>
-                                <div class="date">4 Jul 2026</div>
                             </div>
                         </div>
                     </section>
