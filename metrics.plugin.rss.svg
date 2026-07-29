@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Codex Security</div>
-                                <div class="date">28 Jul 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences</div>
+                                <div class="title">More Tailscale tricks for your jailbroken Kindle</div>
                                 <div class="date">29 Jul 2026</div>
                             </div>
                         </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript</div>
-                                <div class="date">28 Jul 2026</div>
+                                <div class="title">Amiga Graphics Archive</div>
+                                <div class="date">29 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Half-Life ported to Mac OS 9</div>
-                                <div class="date">28 Jul 2026</div>
+                                <div class="title">National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]</div>
+                                <div class="date">29 Jul 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">SpecForge – A Platform for Authoring Formal Specifications</div>
+                                <div class="date">29 Jul 2026</div>
                             </div>
                         </div>
                     </section>
