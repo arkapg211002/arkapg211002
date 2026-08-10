@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Docker Sandboxes – Disposable, isolated sandboxes for AI agents</div>
+                                <div class="title">Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows</div>
                                 <div class="date">10 Aug 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What Happened to HackerOne?</div>
+                                <div class="title">Show HN: Ante, a coding agent in a single binary that runs offline</div>
                                 <div class="date">10 Aug 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tail-Call Interpreters in Rust – Jimmy Ostler</div>
+                                <div class="title">Sonic Pi v5</div>
                                 <div class="date">7 Aug 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Run Android ARM64 VR APKs on Apple Vision Pro</div>
+                                <div class="title">Exploiting System Management Mode with a very long interrupt</div>
                                 <div class="date">10 Aug 2026</div>
                             </div>
                         </div>
