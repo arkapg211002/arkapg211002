@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Seven books I keep close because I love them</div>
+                                <div class="title">Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia</div>
+                                <div class="date">15 Aug 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Going Dark, and the era of law enforcement hacking</div>
                                 <div class="date">14 Aug 2026</div>
                             </div>
                         </div>
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">RustDesk now supports true unattended remote access on Wayland</div>
-                                <div class="date">14 Aug 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Introducing Toast 1</div>
-                                <div class="date">14 Aug 2026</div>
+                                <div class="title">The Ploopy A+ Trackball Is Here</div>
+                                <div class="date">15 Aug 2026</div>
                             </div>
                         </div>
                     </section>
