@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Using the railway network as a flatbed scanner</div>
-                                <div class="date">18 Aug 2026</div>
+                                <div class="title">New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]</div>
+                                <div class="date">19 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fixing a bricked Framework laptop</div>
+                                <div class="title">Cerebras CS-4</div>
+                                <div class="date">19 Aug 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</div>
                                 <div class="date">18 Aug 2026</div>
                             </div>
                         </div>
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">The Amazon tax</div>
                                 <div class="date">18 Aug 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Cursor launches Origin, GitHub alternative</div>
-                                <div class="date">17 Aug 2026</div>
                             </div>
                         </div>
                     </section>
