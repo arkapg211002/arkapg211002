@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Figmimic – A bookmarklet to copy any webpage into Figma as editable layers</div>
-                                <div class="date">22 Aug 2026</div>
+                                <div class="title">The End of an Athlon</div>
+                                <div class="date">23 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NanoGPT Speedrun Frontier</div>
-                                <div class="date">22 Aug 2026</div>
+                                <div class="title">JIT Compiling Code in 5μs</div>
+                                <div class="date">23 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scrap (2006)</div>
-                                <div class="date">22 Aug 2026</div>
+                                <div class="title">To become a better writer, read as much as you can</div>
+                                <div class="date">23 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why your local LLM feels dumber than it is</div>
-                                <div class="date">22 Aug 2026</div>
+                                <div class="title">MartyPC is a cross-platform emulator of early PCs written in Rust</div>
+                                <div class="date">23 Aug 2026</div>
                             </div>
                         </div>
                     </section>
