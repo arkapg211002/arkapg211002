@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I find problems to solve as a staff engineer</div>
+                                <div class="title">I were 17, I'd learn how to build LLMs from scratch</div>
                                 <div class="date">23 Aug 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">FDA clears blood test to aid evaluation for Alzheimer's disease</div>
+                                <div class="date">24 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Anthropic's best AI model struggles to attract users as cheaper tools thrive</div>
-                                <div class="date">23 Aug 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Google Workspace thinks my domain is an email provider (2025)</div>
                                 <div class="date">23 Aug 2026</div>
                             </div>
                         </div>
