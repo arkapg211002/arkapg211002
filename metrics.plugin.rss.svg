@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Switzerland proposes banning profiling-based ads to minors</div>
+                                <div class="title">Better HTTP/1 connection reuse in Go 1.27</div>
                                 <div class="date">14 Oct 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Iosevka is an open-source, sans-serif and slab-serif, monospace font</div>
+                                <div class="title">Fire at Starlink site in Bulgaria after suspected sabotage in Poland</div>
                                 <div class="date">14 Oct 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW</div>
-                                <div class="date">14 Oct 2026</div>
+                                <div class="title">Phloem: Git history grown like a slime mold</div>
+                                <div class="date">12 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">RIP Eric Binnion</div>
+                                <div class="title">Iosevka is an open-source, sans-serif and slab-serif monospace font</div>
                                 <div class="date">14 Oct 2026</div>
                             </div>
                         </div>
