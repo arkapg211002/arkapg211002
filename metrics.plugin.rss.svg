@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Updated PHP version released to GitHub</div>
+                                <div class="title">Mistral Large 4</div>
                                 <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out</div>
+                                <div class="title">Today's PHP security release, and how we're strengthening security</div>
                                 <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</div>
+                                <div class="title">Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</div>
                                 <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PHP2Shell: AI uncovers critical RCE in PHP</div>
-                                <div class="date">21 Oct 2026</div>
+                                <div class="title">Why Windows 11 still ships with Windows 95's memory manager hidden inside it</div>
+                                <div class="date">20 Oct 2026</div>
                             </div>
                         </div>
                     </section>
