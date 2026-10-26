@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Show HN: TitleArt – Make text like it's 1997</div>
+                                <div class="date">26 Oct 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Dolly Parton's Imagination Library</div>
                                 <div class="date">25 Oct 2026</div>
                             </div>
@@ -29,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I refuse to accept a censored Internet. Join Me at FOSDEM 27</div>
-                                <div class="date">25 Oct 2026</div>
+                                <div class="title">PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,16 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis</div>
-                                <div class="date">25 Oct 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop</div>
+                                <div class="title">Show HN: A Truly Modular Keyboard</div>
                                 <div class="date">25 Oct 2026</div>
                             </div>
                         </div>
