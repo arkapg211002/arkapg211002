@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">HackerTube: YouTube built from videos recommended by HN</div>
+                                <div class="title">Postgres 19 is late because so many more bugs are being found now</div>
                                 <div class="date">31 Oct 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mathematics has changed. Let's act like it</div>
-                                <div class="date">1 Nov 2026</div>
+                                <div class="title">F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix</div>
+                                <div class="date">2 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nibnib: Image compression with extreme decompression speed</div>
-                                <div class="date">30 Oct 2026</div>
+                                <div class="title">HackerTube: YouTube built from videos recommended by HN</div>
+                                <div class="date">31 Oct 2026</div>
                             </div>
                         </div>
                     </section>
