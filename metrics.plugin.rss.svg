@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Goodbye Claude, Hello Pi</div>
+                                <div class="title">Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</div>
                                 <div class="date">8 Nov 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What I run on my $10 USD OpenStick homelab</div>
-                                <div class="date">7 Nov 2026</div>
+                                <div class="title">Porting Android 16 to my blind mother's keypad phone</div>
+                                <div class="date">4 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files</div>
-                                <div class="date">7 Nov 2026</div>
+                                <div class="title">Quadrillion-parameter transformers and how to train them</div>
+                                <div class="date">3 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making any integer with four 2s (2025)</div>
-                                <div class="date">7 Nov 2026</div>
+                                <div class="title">JIT bitmap text rendering for microcontrollers</div>
+                                <div class="date">8 Nov 2026</div>
                             </div>
                         </div>
                     </section>
