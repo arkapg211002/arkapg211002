@@ -20,17 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"</div>
-                                <div class="date">23 Nov 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Nvidia Reinstates Jensen Huang as CEO</div>
-                                <div class="date">23 Nov 2026</div>
+                                <div class="title">2035 Came Early</div>
+                                <div class="date">24 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GLM-5.4: Toward generalized coding with our first loop transformer</div>
+                                <div class="title">Stalwart is now a drop-in replacement for Microsoft Exchange</div>
                                 <div class="date">23 Nov 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years</div>
+                                <div class="date">24 Nov 2026</div>
                             </div>
                         </div>
                     </section>
